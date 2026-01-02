@@ -2,12 +2,9 @@ import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 // import '@/assets/index.css';
 import '@/assets/home.css';
-import result from '@/assets/result.json';
 import InputBox from '../components/InputBox';
 import Contributer from '../components/Contributers';
-import GithubStats from '../components/GithubStats';
 import instagramLogo from '@/assets/logos/instagram.svg';
-import linkedInLogo from '@/assets/logos/linkedin.svg';
 import githubLogo from '@/assets/logos/github.svg';
 
 import utkarshImage from '@/assets/team/utkarsh.jpg';
@@ -17,7 +14,7 @@ import matangiImage from '@/assets/team/matangi.jpg';
 import gaurangImage from '@/assets/team/gaurang.jpg';
 import vanshImage from '@/assets/team/vansh.jpg';
 import armaanImage from '@/assets/team/armaan.jpg';
-import parthImage from '@/assets/team/parth.jpg';
+import bhupeshImage from '@/assets/team/bhupesh.png';
 
 
 
@@ -127,11 +124,11 @@ function Home() {
                 githubUrl="https://github.com/Aneesh-382005"
               />
               <Contributer
-              img_url={namanImage}
-                name="Naman Kundra"
-                linkedinUrl="https://www.linkedin.com/in/naman-kundra-850209281/"
-                githubUrl="https://github.com/naman777"
-              />
+                img_url={armaanImage}
+                name="Armaan Jagirdar"
+                linkedinUrl="https://www.linkedin.com/in/armaan-jagirdar-183b47285/"
+                githubUrl="https://github.com/Armaan457"
+              /> 
               <Contributer
                 img_url={matangiImage}
                 name="Matangi Sharma"
@@ -139,30 +136,29 @@ function Home() {
                 githubUrl="https://github.com/matangi05"
               /> 
               <Contributer
-                img_url={armaanImage}
-                name="Armaan Jagirdar"
-                linkedinUrl="https://www.linkedin.com/in/armaan-jagirdar-183b47285/"
-                githubUrl="https://github.com/Armaan457"
-              /> 
-              <Contributer
-                img_url={gaurangImage}
-                name="Gaurang Garg"
-                linkedinUrl="https://www.linkedin.com/in/gaurang-garg-5441382a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-                githubUrl="https://github.com/Ultramech"
-              /> 
-              <Contributer
                 img_url={vanshImage}
                 name="Vansh Gupta"
                 linkedinUrl="https://www.linkedin.com/in/vansh-gupta-4269001b5/"
                 githubUrl=" https://github.com/Vansh-7"
               /> 
-               <Contributer
-                img_url={parthImage}
-                name="Parth Kaushal"
-                linkedinUrl="https://www.linkedin.com/in/parth-kaushal-39ab25286/"
-                githubUrl="https://github.com/parthkaushal18"
+              <Contributer
+                img_url={bhupeshImage}
+                name="Bhupesh Kumar"
+                linkedinUrl="https://www.linkedin.com/in/bhupesh-k-185327366/"
+                githubUrl="https://github.com/Bhup-GitHUB"
               /> 
-              
+              <Contributer
+              img_url={namanImage}
+                name="Naman Kundra"
+                linkedinUrl="https://www.linkedin.com/in/naman-kundra-850209281/"
+                githubUrl="https://github.com/naman777"
+              />
+              <Contributer
+                img_url={gaurangImage}
+                name="Gaurang Garg"
+                linkedinUrl="https://www.linkedin.com/in/gaurang-garg-5441382a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                githubUrl="https://github.com/Ultramech"
+              />      
 
             {/* </div> */}
           </div>

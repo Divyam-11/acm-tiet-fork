@@ -18,19 +18,45 @@ const timeSlots = [
 
 const ScheduleTable = ({ scheduleData }) => {
   const [editingCells, setEditingCells] = useState({});
+  const [expandedCells, setExpandedCells] = useState({});
+  const [expandedMiniBoxes, setExpandedMiniBoxes] = useState({});
 
   useEffect(() => {
     const initialEditingCells = {};
+    const initialExpandedCells = {};
     for (const day in scheduleData) {
       for (const time in scheduleData[day]) {
         if (scheduleData[day][time]) {
           const cellKey = `${day}-${time}`;
           initialEditingCells[cellKey] = true;
+          initialExpandedCells[cellKey] = false;
         }
       }
     }
     setEditingCells(initialEditingCells);
+    setExpandedCells(initialExpandedCells);
   }, [scheduleData]);
+
+  // Watch for when cells collapse and collapse their mini boxes too
+  useEffect(() => {
+    setExpandedMiniBoxes(prev => {
+      const newMiniBoxes = { ...prev };
+      let changed = false;
+
+      // Check each mini box and remove it if its parent cell is not expanded
+      for (const miniBoxKey of Object.keys(newMiniBoxes)) {
+        const [day, time] = miniBoxKey.split('-').slice(0, 2);
+        const cellKey = `${day}-${time}`;
+        
+        if (!expandedCells[cellKey]) {
+          delete newMiniBoxes[miniBoxKey];
+          changed = true;
+        }
+      }
+
+      return changed ? newMiniBoxes : prev;
+    });
+  }, [expandedCells]);
 
   const toggleEditMode = (day, time) => {
     const cellKey = `${day}-${time}`;
@@ -45,12 +71,37 @@ const ScheduleTable = ({ scheduleData }) => {
     });
   };
 
+  const toggleExpanded = (day, time) => {
+    const cellKey = `${day}-${time}`;
+    setExpandedCells(prev => {
+      const isAlreadyExpanded = prev[cellKey];
+
+      // Only allow one expanded cell at a time; clicking the same cell collapses all.
+      if (isAlreadyExpanded) {
+        return {};
+      }
+
+      return { [cellKey]: true };
+    });
+  };
+
+  const toggleMiniBoxExpanded = (day, time, index, e) => {
+    e.stopPropagation();
+    const miniBoxKey = `${day}-${time}-${index}`;
+    setExpandedMiniBoxes(prev => ({
+      ...prev,
+      [miniBoxKey]: !prev[miniBoxKey]
+    }));
+  };
+
   const renderCell = (day, time) => {
     const cellKey = `${day}-${time}`;
     const entry = scheduleData[day] && scheduleData[day][time];
     const isEditing = editingCells[cellKey];
+    const isExpanded = expandedCells[cellKey];
 
-    const cellClassName = isEditing ? "cell cell-with-value" : "cell cell-no-value";
+    const baseClass = isEditing ? "cell cell-with-value" : "cell cell-no-value";
+    const cellClassName = `${baseClass} ${isExpanded ? 'expanded' : 'collapsed'}`;
 
     const getColorName = (value) => {
       switch (value) {
@@ -66,14 +117,23 @@ const ScheduleTable = ({ scheduleData }) => {
     };
 
     const divClassName = isEditing ? "" : "displaying";
+    const getMiniBoxExpanded = (index) => {
+      const miniBoxKey = `${day}-${time}-${index}`;
+      return expandedMiniBoxes[miniBoxKey] || false;
+    };
 
     return (
-      <td key={cellKey} className={cellClassName}>
+      <td
+        key={cellKey}
+        className={cellClassName}
+        onClick={() => toggleExpanded(day, time)}
+      >
         {entry ? entry.slice().reverse().map((value, index) => (
           <div
             key={`${day}-${time}-${index}`}
             contentEditable={isEditing}
-            className={`schedule-input schedule-input-${index} ${divClassName} ${index === 0 ? getColorName(value) : ""}`}
+            className={`schedule-input schedule-input-${index} ${divClassName} ${index === 0 ? getColorName(value) : ""} ${index === 3 && getMiniBoxExpanded(index) ? 'mini-expanded' : ''}`}
+            onClick={(e) => index === 3 && toggleMiniBoxExpanded(day, time, index, e)}
           >
             {value}
           </div>
@@ -87,7 +147,13 @@ const ScheduleTable = ({ scheduleData }) => {
                       
                   </>
               )}
-              <button className ="edit" onClick={() => toggleEditMode(day, time)}>
+              <button
+                className ="edit"
+                onClick={(e) => {
+                  e.stopPropagation();
+                  toggleEditMode(day, time);
+                }}
+              >
                         {isEditing ? 
                         <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" className="bi bi-x-lg" viewBox="0 0 16 16">
                         <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8z"/>

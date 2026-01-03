@@ -3,312 +3,287 @@
 /* Auto layout */
 .schedule-input-0 {
   /* design for type of lecture */
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
-	align-content: center;
-	gap: 10px;
-	border-radius: 5px;
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 700;
-	font-size: 10px;
-	line-height: 14px;
-	width: 53px;
-	color: #FFFFFF;
-	padding-block: 3px;
-	padding-inline: 5px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 10px;
+  border-radius: 5px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 14px;
+  width: 53px;
+  color: #FFFFFF;
+  padding-block: 3px;
+  padding-inline: 5px;
   position: relative;
   margin-top: 5px;
-height:20px;
+  height: 20px;
 }
 
 .schedule-container {
-    display: flex;
-	gap: 2rem;
-	justify-content: center;
-	padding-bottom: 0.5rem;
-     /* Adjust the spacing as needed */
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  padding-bottom: 0.5rem;
+  /* Adjust the spacing as needed */
 }
 
 .schedule-container .pict {
-    padding: 1;
-    margin: 0;
+  padding: 1;
+  margin: 0;
 }
-
 
 .schedule-input-2 {
   /* LT302 */
-
-/* position: absolute; */
-/* width: 46px; */
-width:100%;
-/* height: 22px; */
-position: relative;
-top: 0;
-
-font-family: 'Open Sans';
-font-style: normal;
-font-weight: 600;
-font-size: 14px;
-line-height: 22px;
-/* identical to box height */
-
-color: #999999;
-
-
+  width: 100%;
+  position: relative;
+  top: 0;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 22px;
+  color: #999999;
 }
 
-
-
 .schedule-input-3 {
-  
-display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-gap: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background: #FF5E70;
+  border-radius: 5px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10px;
+  width: 57px;
+  color: #FFFFFF;
+  padding-block: 3px;
+  padding-inline: 5px;
+  position: relative;
+  margin-top: 5px;
+  height: 20px;
+  cursor: pointer;
+  transition: width 0.2s ease, height 0.2s ease;
+}
 
-background: #FF5E70;
-border-radius: 5px;
-font-family: 'Open Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 10px;
-/* line-height: 14px ; */
-width: 57px;
-color: #FFFFFF;
-padding-block: 3px;
-padding-inline: 5px;
-position: relative;
-margin-top: 5px;
-height: 20px;
+.schedule-input-3.mini-expanded {
+  width: 100%;
+  height: auto;
+  max-height: 100px;
+  overflow: auto;
+  white-space: normal;
+  word-wrap: break-word;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 8px;
 }
 
 .schedule-input-1 {
   /* Numerical Linear Algebra */
-/* overflow-x:scroll; */
-position: relative;
-width: 100%;
-/* height: 22px; */
-top: 0;
-max-height:50px;
-
-font-family: 'Open Sans';
-font-style: normal;
-font-weight: 600;
-font-size: 16px;
-/* line-height: 22px; */
-/* identical to box height */
-
-color: #15A6DD;
-
-
-
+  position: relative;
+  width: 100%;
+  top: 0;
+  max-height: 50px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  color: #15A6DD;
 }
 
+.table-wrapper {
+  width: 100%;
+}
 
 table {
-  width:100%;
-  
-  table-layout:fixed;
-  
-  border-collapse: seperate;
-  border-spacing:8px;
-  background-color:rgba(239, 239, 239, 0.3);
-
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: separate;
+  border-spacing: 8px;
+  background-color: rgba(239, 239, 239, 0.3);
 }
 
-
-
-
 /* styles.css */
-
 .cell {
-  width:15%;
-  /* height:80px; */
-  
-  
+  width: 15%;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  vertical-align: top;
+}
+
+.cell.collapsed {
+  max-height: 140px;
+  overflow: hidden;
+}
+
+.cell.expanded {
+  max-height: none;
+  height: auto;
+  transform: scale(1.02);
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 .cell-with-value {
-	width: 30px !important;
-	height: 120px;
-
-	background: #FFFFFF;
-	box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.25);
-	border-radius: 10px;
-  position:relative;
+  width: 100%;
+  min-height: 120px;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  position: relative;
   padding: 10px;
   vertical-align: text-top;
- 
-  
-  
-
-  
-  
-
-}
-
-.edit {
-  border:none;
-  position:absolute;
-  top:5px;
-  right:5px;
-  background-color:transparent;
-  color:rgb(177, 177, 177);
 }
 
 .cell-no-value {
-  /* border: solid 8px rgba(239, 239, 239, 1) ; */
-  background-color : rgba(239, 239, 239, 1);
-  position:relative;
+  background-color: rgba(239, 239, 239, 1);
+  position: relative;
   vertical-align: text-top;
-  /* width: 30px !important; */
-	/* height: 120px; */
   padding: 10px;
-  /* display:none; */
+}
 
+.cell.expanded .schedule-input-0,
+.cell.expanded .schedule-input-1,
+.cell.expanded .schedule-input-2,
+.cell.expanded .schedule-input-3 {
+  height: auto;
+  max-height: none;
+  white-space: normal;
+}
+
+.cell.expanded .schedule-input-1 {
+  font-size: 16px;
+}
+
+.edit {
+  border: none;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background-color: transparent;
+  color: rgb(177, 177, 177);
 }
 
 .displaying {
-  display:none; 
-  background-color:yellow !important;
+  display: none;
+  background-color: yellow !important;
 }
 
 .schedule-input {
-	border: none;
-	outline: none;
+  border: none;
+  outline: none;
   resize: none;
-  overflow: hidden; 
+  overflow: hidden;
   white-space: pre-wrap;
-
 }
+
 .pink {
-  background-color:pink;
+  background-color: pink;
 }
 
 .green {
-	background-color: #73D418;
-	/* Lecture */
+  background-color: #73D418;
+  /* Lecture */
 }
 
 .purple {
-	background-color: #9747FF;
-	/* Tutorial */
+  background-color: #9747FF;
+  /* Tutorial */
 }
 
 .yellow {
-	background-color: #FFBA4A;
-	/* Practical */
+  background-color: #FFBA4A;
+  /* Practical */
 }
 
 .days {
-
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 600;
-font-size: 22px;
-line-height: 27px;
-text-align: left;
-color: #111111;
-
-
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 27px;
+  text-align: left;
+  color: #111111;
 }
 
 .time-specific {
-
-	font-family: 'Montserrat';
-	font-style: normal;
-	font-weight: 600;
-	font-size: 16px;
-	line-height: 27px;
-	text-align: center;
-	color: #111111;
-  width:60px;
-	
-	}
-.time
-{
-
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 600;
-font-size: 14px;
-line-height: 15px;
-/* identical to box height */
-
-color: #A9ACB0;
-;
-
-
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 27px;
+  text-align: center;
+  color: #111111;
+  width: 60px;
 }
 
-.pict
-{
-
-justify-content: center;
-align-items: center;
-padding: 15px;
-gap: 10px;
-
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 700;
-font-size: 15px;
-line-height: 24px;
-color: #15A6DD;
-
-background: #FFFFFF;
-border: 2px solid #15A6DD;
-border-radius: 10px;
-
-margin:0 auto;
-display:block;
-margin-bottom: 30px;
-
+.time {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 15px;
+  color: #A9ACB0;
 }
 
-.acm-title
-{
-	display: flex;
-	justify-content: space-between; /* Distribute space between items */
-	align-items: center;
-	background-color: white; /* Set the background color to white */
-	padding: 1rem;
-	height: 200px
+.pict {
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  gap: 10px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  color: #15A6DD;
+  background: #FFFFFF;
+  border: 2px solid #15A6DD;
+  border-radius: 10px;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 30px;
 }
+
+.acm-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding: 1rem;
+  height: 200px;
+}
+
 .acm-title img {
-	height: 160px;
-	/* width: 300px; */
+  height: 160px;
 }
-	
+
 .acm-title .title-text {
-	font-family: 'Montserrat';
-	font-style: normal;
-	font-weight: 600;
-	font-size: 48px;
-	line-height: 59px;
-	color: #111111;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 59px;
+  color: #111111;
 }
 
 /* Timetable */
 
-
-
-
 /* SchedulePage.css */
-
 .schedule-container {
-	width: 1200px;
-	margin: 0 auto; /* Center the container */
+  width: 1200px;
+  margin: 0 auto;
+}
+
+@media (max-width: 1200px) {
+  .schedule-container {
+    width: 100%;
   }
-  
-  @media (max-width: 1200px) {
-	.schedule-container {
-	  width: 100%; /* Ensure it doesn’t overflow on smaller screens */
-	}
-  }
-  
+}

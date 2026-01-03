@@ -49442,6 +49442,30 @@
                 "E308 LC18",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
+            ],
+            "01:50 PM": [
+                "UBT620P",
+                "BIO PROCESS/MICRO LAB",
+                "PROCESS LAB",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "UBT620P",
+                "BIO PROCESS/MICRO LAB",
+                "PROCESS LAB",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "UBT620P",
+                "BIO PROCESS/MICRO LAB",
+                "PROCESS LAB",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "UBT620P",
+                "BIO PROCESS/MICRO LAB",
+                "PROCESS LAB",
+                "Practical"
             ]
         }
     },
@@ -49573,6 +49597,30 @@
                 "UHU005P",
                 "E308 LAB",
                 "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "UBT620P",
+                "BIO PROCESS/MICRO LAB",
+                "PROCESS LAB",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "UBT620P",
+                "BIO PROCESS/MICRO LAB",
+                "PROCESS LAB",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "UBT620P",
+                "BIO PROCESS/MICRO LAB",
+                "PROCESS LAB",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "UBT620P",
+                "BIO PROCESS/MICRO LAB",
+                "PROCESS LAB",
                 "Practical"
             ]
         }
@@ -65437,13 +65485,13 @@
                 "UCS761P/UCS749/UCSXX2P/UCS635P/UCS658L",
                 "ES-2/PL-3/GC-1/SD/LT101",
                 "DEEP LEARNING / CONVERSATIONAL AI: SPEECH PROCESSING AND SYNTHESIS / UCSXX2 / GPU COMPUTING / DERIVATIVES PRICING, TRADING AND STRATEGIES",
-                "Lecture"
+                "Practical"
             ],
             "02:40 PM": [
                 "UCS761P/UCS749/UCSXX2P/UCS635P/UCS658L",
                 "ES-2/PL-3/GC-1/SD/LT101",
                 "DEEP LEARNING / CONVERSATIONAL AI: SPEECH PROCESSING AND SYNTHESIS / UCSXX2 / GPU COMPUTING / DERIVATIVES PRICING, TRADING AND STRATEGIES",
-                "Lecture"
+                "Practical"
             ],
             "03:30 PM": [
                 "UCS654P/UCSXX1P",

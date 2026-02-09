@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import NotFound from './pages/NotFound'
 import './App.css'
 import Schedule from './pages/Schedule';
+import Rooms from './pages/Rooms';
 
 
 function App() {
@@ -15,6 +16,8 @@ function App() {
 
           <Route path="/" element={<Home />} />
           <Route path ="/schedule/:sub" element = { <Schedule /> } />
+          <Route path="/rooms" element={<Rooms />} />
+          <Route path="/rooms/:roomName" element={<Rooms />} />
 
 
 

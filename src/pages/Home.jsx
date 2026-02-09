@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 // import '@/assets/index.css';
 import '@/assets/home.css';
 import InputBox from '../components/InputBox';
@@ -102,6 +102,11 @@ function Home() {
             <button className="submit-button" type="submit">Submit</button>
             
           </form>
+          <div className="room-check-link" style={{ textAlign: 'center', marginTop: '15px' }}>
+            <Link to="/rooms" className="submit-button" style={{ display: 'inline-block', textDecoration: 'none', fontSize: '14px', backgroundColor: '#333' }}>
+              Check Room Availability
+            </Link>
+          </div>
           {/* <div className="github-stats">
             <GithubStats/>
           </div> */}

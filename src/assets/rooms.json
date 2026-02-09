@@ -1,4 +1,706 @@
 {
+    "-1": {
+        "Tuesday": {
+            "11:20 AM": [
+                "1A12",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A12",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1A31",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A31",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "1A38",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A38",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1A41",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1A41",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        },
+        "Friday": {
+            "08:00 AM": [
+                "1A15",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A15",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1A32",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A32",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "1A91",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A91",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1X21",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1X21",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        },
+        "Wednesday": {
+            "09:40 AM": [
+                "1A22",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A22",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1A23",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1A23",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1A54",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A54",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1A61",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A61",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        },
+        "Monday": {
+            "01:50 PM": [
+                "1A73",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A73",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1X14",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1X14",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        },
+        "Thursday": {
+            "08:00 AM": [
+                "1A85",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A85",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1A94",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1A94",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1X11",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1X11",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "1X24",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1X24",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        }
+    },
+    "-2": {
+        "Tuesday": {
+            "11:20 AM": [
+                "1A13",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A13",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "1A35",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A35",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "3B11",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3B11",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1A51",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A51",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1A83",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A83",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        },
+        "Friday": {
+            "08:00 AM": [
+                "1A16",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A16",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1A33",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A33",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "1A92",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A92",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        },
+        "Monday": {
+            "09:40 AM": [
+                "1A18",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A18",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1A72",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A72",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "3U11",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3U11",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ]
+        },
+        "Wednesday": {
+            "08:00 AM": [
+                "1A21",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A21",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "3B12",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3B12",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1A37",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A37",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "1A63",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A63",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1A64",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A64",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        },
+        "Thursday": {
+            "09:40 AM": [
+                "1A44",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A44",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1A81",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A81",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "3B13",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1A95",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "3B13",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ]
+        }
+    },
+    "-3": {
+        "Tuesday": {
+            "11:20 AM": [
+                "1A14",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A14",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1A43",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1A43",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1A52",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A52",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1A84",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A84",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        },
+        "Friday": {
+            "08:00 AM": [
+                "1A17",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A17",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1A34",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A34",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "1A93",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A93",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1X23",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1X23",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1J11",
+                "UPH011P",
+                "PHYSICS WITH CALCULUS -II",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1J11",
+                "UPH011P",
+                "PHYSICS WITH CALCULUS -II",
+                "Practical"
+            ]
+        },
+        "Wednesday": {
+            "03:30 PM": [
+                "1A25",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1A25",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1A53",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A53",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        },
+        "Thursday": {
+            "09:40 AM": [
+                "1A45",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A45",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1A55",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1A55",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1A74",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A74",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1A75",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A75",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1J11",
+                "UPH011P",
+                "PHYSICS WITH CALCULUS -II",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1J11",
+                "UPH011P",
+                "PHYSICS WITH CALCULUS -II",
+                "Practical"
+            ]
+        },
+        "Monday": {
+            "01:50 PM": [
+                "1A71",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A71",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1X12",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1X12",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        }
+    },
     "?": {
         "Friday": {
             "03:30 PM": [
@@ -185,37 +887,23 @@
             ]
         }
     },
-    "ALTERANTE FROM FIRST WEEK": {
-        "Monday": {
-            "09:40 AM": [
-                "2X11",
-                "UAI401P",
-                "UAI401",
+    "ALB": {
+        "Wednesday": {
+            "08:00 AM": [
+                "2H13",
+                "UME416P",
+                "UME416",
                 "Practical"
             ],
-            "10:30 AM": [
-                "2X11",
-                "UAI401P",
-                "UAI401",
-                "Practical"
-            ]
-        },
-        "Tuesday": {
-            "01:50 PM": [
-                "2X12",
-                "UAI401P",
-                "UAI401",
-                "Practical"
-            ],
-            "02:40 PM": [
-                "2X12",
-                "UAI401P",
-                "UAI401",
+            "08:50 AM": [
+                "2H13",
+                "UME416P",
+                "UME416",
                 "Practical"
             ]
         }
     },
-    "ALTERANTE FROM SECOND WEEK": {
+    "ALTERANTE": {
         "Monday": {
             "09:40 AM": [
                 "2X13",
@@ -287,6 +975,22 @@
             ]
         }
     },
+    "AMG": {
+        "Wednesday": {
+            "01:50 PM": [
+                "4H11",
+                "UME735P",
+                "MACHINING SCIENCE",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "4H11",
+                "UME735P",
+                "MACHINING SCIENCE",
+                "Practical"
+            ]
+        }
+    },
     "ANALOG": {
         "Monday": {
             "08:50 AM": [
@@ -299,6 +1003,18 @@
                 "2D11",
                 "UES013P",
                 "ELECTRICAL & ELECTRONIC ENGINEERING",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "3J11",
+                "UBM602P",
+                "INTRODUCTION TO DIGITAL  ELECTRONICS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3J11",
+                "UBM602P",
+                "INTRODUCTION TO DIGITAL  ELECTRONICS",
                 "Practical"
             ]
         },
@@ -327,22 +1043,6 @@
                 "2D13",
                 "UES301P",
                 "ANALOG CIRCUITS",
-                "Practical"
-            ]
-        }
-    },
-    "ANALOG SIGNAL": {
-        "Monday": {
-            "03:30 PM": [
-                "3J11",
-                "UBM602P",
-                "INTRODUCTION TO DIGITAL  ELECTRONICS",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "3J11",
-                "UBM602P",
-                "INTRODUCTION TO DIGITAL  ELECTRONICS",
                 "Practical"
             ]
         }
@@ -391,6 +1091,22 @@
             ]
         }
     },
+    "ANP": {
+        "Thursday": {
+            "09:40 AM": [
+                "4A11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "4A11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        }
+    },
     "ANS": {
         "Thursday": {
             "11:20 AM": [
@@ -403,6 +1119,38 @@
                 "3R13",
                 "UHU046P",
                 "ADVANCE FINANCE",
+                "Practical"
+            ]
+        }
+    },
+    "AP-C15": {
+        "Monday": {
+            "08:50 AM": [
+                "3B13",
+                "UCE615P",
+                "UCE615",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "3B13",
+                "UCE615P",
+                "UCE615",
+                "Practical"
+            ]
+        }
+    },
+    "AP-C3": {
+        "Tuesday": {
+            "01:50 PM": [
+                "1A93",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A93",
+                "UES101P",
+                "ENGINEERING DRAWING",
                 "Practical"
             ]
         }
@@ -420,6 +1168,78 @@
                 "UES101P",
                 "ENGINEERING DRAWING",
                 "Practical"
+            ]
+        }
+    },
+    "APC-7": {
+        "Wednesday": {
+            "08:00 AM": [
+                "1A92",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A92",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ]
+        }
+    },
+    "APC14": {
+        "Tuesday": {
+            "03:30 PM": [
+                "2H22",
+                "UTA016P",
+                "UTA016",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "2H22",
+                "UTA016P",
+                "UTA016",
+                "Practical"
+            ]
+        }
+    },
+    "APR": {
+        "Wednesday": {
+            "03:30 PM": [
+                "3U11",
+                "UCC601P",
+                "UCC601",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3U11",
+                "UCC601P",
+                "UCC601",
+                "Practical"
+            ]
+        }
+    },
+    "AS-2": {
+        "Tuesday": {
+            "01:50 PM": [
+                "3R13",
+                "UCT633L",
+                "DATA MINING & ANALYTICS",
+                "Lecture"
+            ]
+        },
+        "Monday": {
+            "01:50 PM": [
+                "3Q26",
+                "UCS671",
+                "EDGE AI AND ROBOTICS: EMBEDDED VISION",
+                "Lecture"
+            ],
+            "02:40 PM": [
+                "3Q26",
+                "UCS671",
+                "EDGE AI AND ROBOTICS: EMBEDDED VISION",
+                "Lecture"
             ]
         }
     },
@@ -915,22 +1735,18 @@
             ]
         },
         "Thursday": {
-            "11:20 AM": [
-                "1A85",
+            "03:30 PM": [
+                "1A54",
                 "UHU003P",
                 "PROFESSIONAL COMMUNICATION",
                 "Practical"
             ],
-            "12:10 PM": [
-                "1A85",
+            "04:20 PM": [
+                "1A54",
                 "UHU003P",
                 "PROFESSIONAL COMMUNICATION",
                 "Practical"
-            ]
-        }
-    },
-    "B109 LC-1": {
-        "Thursday": {
+            ],
             "09:40 AM": [
                 "1A62",
                 "UHU003P",
@@ -942,11 +1758,7 @@
                 "UHU003P",
                 "PROFESSIONAL COMMUNICATION",
                 "Practical"
-            ]
-        }
-    },
-    "B109 LC10": {
-        "Thursday": {
+            ],
             "01:50 PM": [
                 "1A71",
                 "UHU003P",
@@ -958,19 +1770,15 @@
                 "UHU003P",
                 "PROFESSIONAL COMMUNICATION",
                 "Practical"
-            ]
-        }
-    },
-    "B109 PA": {
-        "Thursday": {
-            "03:30 PM": [
-                "1A54",
+            ],
+            "11:20 AM": [
+                "1A85",
                 "UHU003P",
                 "PROFESSIONAL COMMUNICATION",
                 "Practical"
             ],
-            "04:20 PM": [
-                "1A54",
+            "12:10 PM": [
+                "1A85",
                 "UHU003P",
                 "PROFESSIONAL COMMUNICATION",
                 "Practical"
@@ -3720,20 +4528,18 @@
     "BIO": {
         "Tuesday": {
             "09:40 AM": [
-                "1G11",
+                "1G12",
                 "UBT203P",
                 "UBT203",
                 "Practical"
             ],
             "10:30 AM": [
-                "1G11",
+                "1G12",
                 "UBT203P",
                 "UBT203",
                 "Practical"
             ]
-        }
-    },
-    "BIO PROCESS": {
+        },
         "Monday": {
             "01:50 PM": [
                 "2G12",
@@ -3991,6 +4797,102 @@
                 "3J11",
                 "UBM609P",
                 "UBM609",
+                "Practical"
+            ]
+        }
+    },
+    "C": {
+        "Thursday": {
+            "10:30 AM": [
+                "2E11",
+                "UEI501P",
+                "CONTROL SYSTEMS",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "2E11",
+                "UEI501P",
+                "CONTROL SYSTEMS",
+                "Practical"
+            ]
+        },
+        "Monday": {
+            "02:40 PM": [
+                "2E12",
+                "UEI501P",
+                "CONTROL SYSTEMS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "2E12",
+                "UEI501P",
+                "CONTROL SYSTEMS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "3S11",
+                "ULC602P",
+                "DIGITAL MEASUREMENT AND PROTECTION",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "3S11",
+                "ULC602P",
+                "DIGITAL MEASUREMENT AND PROTECTION",
+                "Practical"
+            ]
+        },
+        "Tuesday": {
+            "08:00 AM": [
+                "3S12",
+                "ULC602P",
+                "DIGITAL MEASUREMENT AND PROTECTION",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "3S12",
+                "ULC602P",
+                "DIGITAL MEASUREMENT AND PROTECTION",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "3S15",
+                "ULC602P",
+                "DIGITAL MEASUREMENT AND PROTECTION",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3S15",
+                "ULC602P",
+                "DIGITAL MEASUREMENT AND PROTECTION",
+                "Practical"
+            ]
+        },
+        "Friday": {
+            "08:00 AM": [
+                "3S13",
+                "ULC602P",
+                "DIGITAL MEASUREMENT AND PROTECTION",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "3S13",
+                "ULC602P",
+                "DIGITAL MEASUREMENT AND PROTECTION",
+                "Practical"
+            ]
+        },
+        "Wednesday": {
+            "03:30 PM": [
+                "3S14",
+                "ULC602P",
+                "DIGITAL MEASUREMENT AND PROTECTION",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3S14",
+                "ULC602P",
+                "DIGITAL MEASUREMENT AND PROTECTION",
                 "Practical"
             ]
         }
@@ -6641,6 +7543,300 @@
             ]
         }
     },
+    "CAD": {
+        "Tuesday": {
+            "09:40 AM": [
+                "1A33",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A33",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1A34",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A34",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1A93",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A93",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "3B11",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3B11",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1X11",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1X11",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ]
+        },
+        "Monday": {
+            "09:40 AM": [
+                "1A35",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A35",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1A37",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A37",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "3U11",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3U11",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1X13",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1X13",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1X22",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1X22",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ]
+        },
+        "Friday": {
+            "09:40 AM": [
+                "1A36",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A36",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1A84",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A84",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1A85",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A85",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1X14",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1X14",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1X24",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1X24",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ]
+        },
+        "Wednesday": {
+            "11:20 AM": [
+                "1A38",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A38",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "1A91",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A91",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1X12",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1X12",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "3B12",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3B12",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ]
+        },
+        "Thursday": {
+            "08:00 AM": [
+                "1A81",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A81",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1A82",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A82",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "3B13",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1A83",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "1X21",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1X21",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "3B13",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ]
+        }
+    },
     "CAD-1": {
         "Wednesday": {
             "03:30 PM": [
@@ -7976,9 +9172,45 @@
                 "UCB009L",
                 "Chemistry",
                 "Lecture"
+            ],
+            "01:50 PM": [
+                "1B85",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1B85",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1G12",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1G12",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
             ]
         },
         "Tuesday": {
+            "03:30 PM": [
+                "1B15",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1B15",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
             "09:40 AM": [
                 "1B18",
                 "UCB009P",
@@ -7987,6 +9219,42 @@
             ],
             "10:30 AM": [
                 "1B18",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1B52",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1B52",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1B62",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1B62",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1B74",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1B74",
                 "UCB009P",
                 "Chemistry",
                 "Practical"
@@ -8028,55 +9296,27 @@
                 "UCB009P",
                 "Chemistry",
                 "Practical"
-            ]
-        }
-    },
-    "CBOL-G141": {
-        "Tuesday": {
-            "03:30 PM": [
-                "1B15",
+            ],
+            "09:40 AM": [
+                "1B38",
                 "UCB009P",
                 "Chemistry",
                 "Practical"
             ],
-            "04:20 PM": [
-                "1B15",
-                "UCB009P",
-                "Chemistry",
-                "Practical"
-            ],
-            "11:20 AM": [
-                "1B52",
-                "UCB009P",
-                "Chemistry",
-                "Practical"
-            ],
-            "12:10 PM": [
-                "1B52",
-                "UCB009P",
-                "Chemistry",
-                "Practical"
-            ],
-            "01:50 PM": [
-                "1B62",
-                "UCB009P",
-                "Chemistry",
-                "Practical"
-            ],
-            "02:40 PM": [
-                "1B62",
+            "10:30 AM": [
+                "1B38",
                 "UCB009P",
                 "Chemistry",
                 "Practical"
             ],
             "08:00 AM": [
-                "1B74",
+                "1B93",
                 "UCB009P",
                 "Chemistry",
                 "Practical"
             ],
             "08:50 AM": [
-                "1B74",
+                "1B93",
                 "UCB009P",
                 "Chemistry",
                 "Practical"
@@ -8132,32 +9372,6 @@
                 "Practical"
             ]
         },
-        "Wednesday": {
-            "09:40 AM": [
-                "1B38",
-                "UCB009P",
-                "Chemistry",
-                "Practical"
-            ],
-            "10:30 AM": [
-                "1B38",
-                "UCB009P",
-                "Chemistry",
-                "Practical"
-            ],
-            "08:00 AM": [
-                "1B93",
-                "UCB009P",
-                "Chemistry",
-                "Practical"
-            ],
-            "08:50 AM": [
-                "1B93",
-                "UCB009P",
-                "Chemistry",
-                "Practical"
-            ]
-        },
         "Friday": {
             "11:20 AM": [
                 "1B65",
@@ -8167,32 +9381,6 @@
             ],
             "12:10 PM": [
                 "1B65",
-                "UCB009P",
-                "Chemistry",
-                "Practical"
-            ]
-        },
-        "Monday": {
-            "01:50 PM": [
-                "1B85",
-                "UCB009P",
-                "Chemistry",
-                "Practical"
-            ],
-            "02:40 PM": [
-                "1B85",
-                "UCB009P",
-                "Chemistry",
-                "Practical"
-            ],
-            "03:30 PM": [
-                "1G12",
-                "UCB009P",
-                "Chemistry",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "1G12",
                 "UCB009P",
                 "Chemistry",
                 "Practical"
@@ -8215,7 +9403,7 @@
             ]
         }
     },
-    "CED CAD": {
+    "CED": {
         "Tuesday": {
             "09:40 AM": [
                 "1A33",
@@ -8241,16 +9429,28 @@
                 "ENGINEERING DRAWING",
                 "Practical"
             ],
-            "03:30 PM": [
-                "1A95",
+            "01:50 PM": [
+                "1A93",
                 "UES101P",
                 "ENGINEERING DRAWING",
                 "Practical"
             ],
-            "04:20 PM": [
-                "1A95",
+            "02:40 PM": [
+                "1A93",
                 "UES101P",
                 "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "3B11",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3B11",
+                "UCE693P",
+                "UCE693",
                 "Practical"
             ],
             "11:20 AM": [
@@ -8279,16 +9479,28 @@
                 "ENGINEERING DRAWING",
                 "Practical"
             ],
-            "03:30 PM": [
-                "1A94",
+            "01:50 PM": [
+                "1A37",
                 "UES101P",
                 "ENGINEERING DRAWING",
                 "Practical"
             ],
-            "04:20 PM": [
-                "1A94",
+            "02:40 PM": [
+                "1A37",
                 "UES101P",
                 "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "3U11",
+                "UCE693P",
+                "UCE693",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3U11",
+                "UCE693P",
+                "UCE693",
                 "Practical"
             ],
             "08:00 AM": [
@@ -8416,15 +9628,15 @@
                 "Practical"
             ],
             "03:30 PM": [
-                "1X23",
-                "UES101P",
-                "ENGINEERING DRAWING",
+                "3B12",
+                "UCE693P",
+                "UCE693",
                 "Practical"
             ],
             "04:20 PM": [
-                "1X23",
-                "UES101P",
-                "ENGINEERING DRAWING",
+                "3B12",
+                "UCE693P",
+                "UCE693",
                 "Practical"
             ]
         },
@@ -8454,9 +9666,9 @@
                 "Practical"
             ],
             "03:30 PM": [
-                "1A83",
-                "UES101P",
-                "ENGINEERING DRAWING",
+                "3B13",
+                "UCE693P",
+                "UCE693",
                 "Practical"
             ],
             "04:20 PM": [
@@ -8476,93 +9688,9 @@
                 "UES101P",
                 "ENGINEERING DRAWING",
                 "Practical"
-            ]
-        }
-    },
-    "CED CAD AP-C3": {
-        "Tuesday": {
-            "01:50 PM": [
-                "1A93",
-                "UES101P",
-                "ENGINEERING DRAWING",
-                "Practical"
             ],
-            "02:40 PM": [
-                "1A93",
-                "UES101P",
-                "ENGINEERING DRAWING",
-                "Practical"
-            ]
-        }
-    },
-    "CED CAD MNP": {
-        "Monday": {
-            "01:50 PM": [
-                "1A37",
-                "UES101P",
-                "ENGINEERING DRAWING",
-                "Practical"
-            ],
-            "02:40 PM": [
-                "1A37",
-                "UES101P",
-                "ENGINEERING DRAWING",
-                "Practical"
-            ]
-        }
-    },
-    "CED CAD-2": {
-        "Tuesday": {
-            "03:30 PM": [
-                "3B11",
-                "UCE693P",
-                "UCE693",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "3B11",
-                "UCE693P",
-                "UCE693",
-                "Practical"
-            ]
-        },
-        "Wednesday": {
-            "03:30 PM": [
-                "3B12",
-                "UCE693P",
-                "UCE693",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "3B12",
-                "UCE693P",
-                "UCE693",
-                "Practical"
-            ]
-        },
-        "Thursday": {
             "02:40 PM": [
                 "3B13",
-                "UCE693P",
-                "UCE693",
-                "Practical"
-            ],
-            "03:30 PM": [
-                "3B13",
-                "UCE693P",
-                "UCE693",
-                "Practical"
-            ]
-        },
-        "Monday": {
-            "03:30 PM": [
-                "3U11",
-                "UCE693P",
-                "UCE693",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "3U11",
                 "UCE693P",
                 "UCE693",
                 "Practical"
@@ -9815,6 +10943,52 @@
             ]
         }
     },
+    "DG": {
+        "Wednesday": {
+            "09:40 AM": [
+                "1A34",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A34",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ]
+        },
+        "Friday": {
+            "10:30 AM": [
+                "1X24",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1X24",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ]
+        }
+    },
+    "DMG": {
+        "Tuesday": {
+            "09:40 AM": [
+                "1A15",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A15",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ]
+        }
+    },
     "DOM": {
         "Friday": {
             "03:30 PM": [
@@ -11056,6 +12230,18 @@
                 "UCT403L",
                 "SOFTWARE DESIGN WITH UML",
                 "Lecture"
+            ],
+            "03:30 PM": [
+                "2R11",
+                "UHU024P",
+                "DESIGN THINKING",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "2R11",
+                "UHU024P",
+                "DESIGN THINKING",
+                "Practical"
             ]
         },
         "Tuesday": {
@@ -11120,6 +12306,18 @@
                 "UCT402L",
                 "DATABASE MANAGEMENT SYSTEMS",
                 "Lecture"
+            ],
+            "01:50 PM": [
+                "3R13",
+                "UHU044P",
+                "BUSINESS COMMUNICATION & VALUE SCIENCE-IV",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "3R13",
+                "UHU044P",
+                "BUSINESS COMMUNICATION & VALUE SCIENCE-IV",
+                "Practical"
             ]
         },
         "Thursday": {
@@ -11146,6 +12344,18 @@
                 "UHU023L",
                 "INTRODUCTION TO INNOVATION IP MANAGEMENT & ENTREPR",
                 "Lecture"
+            ],
+            "11:20 AM": [
+                "2R12",
+                "UHU024P",
+                "DESIGN THINKING",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "2R12",
+                "UHU024P",
+                "DESIGN THINKING",
+                "Practical"
             ],
             "01:00 PM": [
                 "3R13",
@@ -11189,52 +12399,6 @@
                 "2R13",
                 "UHU024P",
                 "DESIGN THINKING",
-                "Practical"
-            ]
-        }
-    },
-    "E102 GK": {
-        "Monday": {
-            "03:30 PM": [
-                "2R11",
-                "UHU024P",
-                "DESIGN THINKING",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "2R11",
-                "UHU024P",
-                "DESIGN THINKING",
-                "Practical"
-            ]
-        },
-        "Thursday": {
-            "11:20 AM": [
-                "2R12",
-                "UHU024P",
-                "DESIGN THINKING",
-                "Practical"
-            ],
-            "12:10 PM": [
-                "2R12",
-                "UHU024P",
-                "DESIGN THINKING",
-                "Practical"
-            ]
-        }
-    },
-    "E102 NSD": {
-        "Wednesday": {
-            "01:50 PM": [
-                "3R13",
-                "UHU044P",
-                "BUSINESS COMMUNICATION & VALUE SCIENCE-IV",
-                "Practical"
-            ],
-            "02:40 PM": [
-                "3R13",
-                "UHU044P",
-                "BUSINESS COMMUNICATION & VALUE SCIENCE-IV",
                 "Practical"
             ]
         }
@@ -12271,6 +13435,18 @@
                 "Engineering Design Project - 2",
                 "Lecture"
             ],
+            "03:30 PM": [
+                "2Q41",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "2Q41",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
             "11:20 AM": [
                 "3B11",
                 "UCE615T",
@@ -12316,22 +13492,6 @@
                 "UMA401L",
                 "Probability and Statistics",
                 "Lecture"
-            ]
-        }
-    },
-    "E201 UCS321P": {
-        "Wednesday": {
-            "03:30 PM": [
-                "2Q41",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "2Q41",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
             ]
         }
     },
@@ -12597,6 +13757,18 @@
                 "MATERIALS ENGINEERING AND METALLURGY",
                 "Tutorial"
             ],
+            "08:00 AM": [
+                "3H22",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "3H22",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
             "09:40 AM": [
                 "3U11",
                 "UCE831L",
@@ -12775,22 +13947,6 @@
             ]
         }
     },
-    "E301 LC23": {
-        "Tuesday": {
-            "08:00 AM": [
-                "3H22",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ],
-            "08:50 AM": [
-                "3H22",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ]
-        }
-    },
     "E302": {
         "Wednesday": {
             "04:20 PM": [
@@ -12936,19 +14092,7 @@
                 "UCE853L",
                 "DESIGN OF SMART & SUSTAINABLE PUBLIC UTILITIES",
                 "Lecture"
-            ]
-        },
-        "Monday": {
-            "10:30 AM": [
-                "3C62",
-                "UCS701T",
-                "THEORY OF COMPUTATION",
-                "Tutorial"
-            ]
-        }
-    },
-    "E302 LC21": {
-        "Thursday": {
+            ],
             "03:30 PM": [
                 "4B12",
                 "UHU005P",
@@ -12960,11 +14104,7 @@
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
-            ]
-        }
-    },
-    "E302 SCB": {
-        "Thursday": {
+            ],
             "01:50 PM": [
                 "3C18",
                 "UTA025P",
@@ -12976,6 +14116,14 @@
                 "UTA025P",
                 "INNOVATION AND ENTREPRENEURSHIP",
                 "Practical"
+            ]
+        },
+        "Monday": {
+            "10:30 AM": [
+                "3C62",
+                "UCS701T",
+                "THEORY OF COMPUTATION",
+                "Tutorial"
             ]
         }
     },
@@ -13044,13 +14192,13 @@
                 "Lecture"
             ],
             "03:30 PM": [
-                "2H12",
+                "2H22",
                 "UTA016P",
                 "UTA016",
                 "Practical"
             ],
             "04:20 PM": [
-                "2H12",
+                "2H22",
                 "UTA016P",
                 "UTA016",
                 "Practical"
@@ -13092,6 +14240,18 @@
                 "UME518T",
                 "UME518",
                 "Tutorial"
+            ],
+            "08:00 AM": [
+                "3S15",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "3S15",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
             ]
         },
         "Thursday": {
@@ -13157,38 +14317,6 @@
                 "UTA016",
                 "Practical"
             ],
-            "08:00 AM": [
-                "3S14",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ],
-            "08:50 AM": [
-                "3S14",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ]
-        }
-    },
-    "E303 APC14": {
-        "Tuesday": {
-            "03:30 PM": [
-                "2H22",
-                "UTA016P",
-                "UTA016",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "2H22",
-                "UTA016P",
-                "UTA016",
-                "Practical"
-            ]
-        }
-    },
-    "E303 LC18": {
-        "Friday": {
             "01:50 PM": [
                 "3G11",
                 "UHU005P",
@@ -13200,19 +14328,15 @@
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
-            ]
-        }
-    },
-    "E303 LC29": {
-        "Wednesday": {
+            ],
             "08:00 AM": [
-                "3S15",
+                "3S14",
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
             ],
             "08:50 AM": [
-                "3S15",
+                "3S14",
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
@@ -13834,11 +14958,7 @@
                 "UEC612T",
                 "DIGITAL SYSTEM DESIGN",
                 "Tutorial"
-            ]
-        }
-    },
-    "E306 LC22": {
-        "Friday": {
+            ],
             "01:00 PM": [
                 "3W13",
                 "UHU005P",
@@ -13890,6 +15010,18 @@
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
+            ],
+            "09:40 AM": [
+                "4A11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "4A11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
             ]
         },
         "Friday": {
@@ -13931,6 +15063,18 @@
             ]
         },
         "Monday": {
+            "03:30 PM": [
+                "3E11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3E11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
             "11:20 AM": [
                 "3E12",
                 "UHU005P",
@@ -13942,47 +15086,45 @@
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
-            ]
-        },
-        "Wednesday": {
+            ],
             "09:40 AM": [
-                "3D14",
+                "3I12",
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
             ],
             "10:30 AM": [
-                "3D14",
+                "3I12",
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
             ],
-            "03:30 PM": [
-                "3H23",
-                "UHU003P",
-                "PROFESSIONAL COMMUNICATION",
+            "01:50 PM": [
+                "4B11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
                 "Practical"
             ],
-            "04:20 PM": [
-                "3H23",
-                "UHU003P",
-                "PROFESSIONAL COMMUNICATION",
+            "02:40 PM": [
+                "4B11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
                 "Practical"
-            ],
-            "12:10 PM": [
-                "3C12",
-                "UTA025T",
-                "INNOVATION AND ENTREPRENEURSHIP",
-                "Tutorial"
-            ],
-            "11:20 AM": [
-                "3C12",
-                "UTA025T",
-                "INNOVATION AND ENTREPRENEURSHIP",
-                "Tutorial"
             ]
         },
         "Tuesday": {
+            "11:20 AM": [
+                "3E13",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "3E13",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
             "08:00 AM": [
                 "3H11",
                 "UHU005P",
@@ -14003,6 +15145,18 @@
             ],
             "02:40 PM": [
                 "3H23",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "3G12",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3G12",
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
@@ -14013,55 +15167,7 @@
                 "UCE806",
                 "Tutorial"
             ]
-        }
-    },
-    "E307 ANP": {
-        "Thursday": {
-            "09:40 AM": [
-                "4A11",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ],
-            "10:30 AM": [
-                "4A11",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ]
-        }
-    },
-    "E307 LC17": {
-        "Monday": {
-            "03:30 PM": [
-                "3E11",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "3E11",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ]
         },
-        "Tuesday": {
-            "11:20 AM": [
-                "3E13",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ],
-            "12:10 PM": [
-                "3E13",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ]
-        }
-    },
-    "E307 LC19": {
         "Wednesday": {
             "08:00 AM": [
                 "3D12",
@@ -14074,64 +15180,54 @@
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
-            ]
-        }
-    },
-    "E307 LC20": {
-        "Monday": {
+            ],
             "09:40 AM": [
-                "3I12",
+                "3D14",
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
             ],
             "10:30 AM": [
-                "3I12",
+                "3D14",
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
             ],
             "01:50 PM": [
-                "4B11",
+                "3H21",
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
             ],
             "02:40 PM": [
-                "4B11",
+                "3H21",
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
-            ]
-        },
-        "Tuesday": {
+            ],
             "03:30 PM": [
-                "3G12",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
+                "3H23",
+                "UHU003P",
+                "PROFESSIONAL COMMUNICATION",
                 "Practical"
             ],
             "04:20 PM": [
-                "3G12",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ]
-        }
-    },
-    "E307 LC22": {
-        "Wednesday": {
-            "01:50 PM": [
-                "3H21",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
+                "3H23",
+                "UHU003P",
+                "PROFESSIONAL COMMUNICATION",
                 "Practical"
             ],
-            "02:40 PM": [
-                "3H21",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
+            "12:10 PM": [
+                "3C12",
+                "UTA025T",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Tutorial"
+            ],
+            "11:20 AM": [
+                "3C12",
+                "UTA025T",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Tutorial"
             ]
         }
     },
@@ -14180,6 +15276,18 @@
                 "UCE513L",
                 "UCE513",
                 "Lecture"
+            ],
+            "03:30 PM": [
+                "3S11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3S11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
             ]
         },
         "Friday": {
@@ -14191,6 +15299,30 @@
             ],
             "04:20 PM": [
                 "3H13",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "01:00 PM": [
+                "3W12",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "3W12",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "3G14",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "3G14",
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
@@ -14271,70 +15403,6 @@
                 "UCE615",
                 "Tutorial"
             ],
-            "03:30 PM": [
-                "4B13",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "4B13",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ]
-        }
-    },
-    "E308 LC18": {
-        "Friday": {
-            "09:40 AM": [
-                "3G14",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ],
-            "10:30 AM": [
-                "3G14",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ]
-        }
-    },
-    "E308 LC23": {
-        "Friday": {
-            "01:00 PM": [
-                "3W12",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ],
-            "01:50 PM": [
-                "3W12",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ]
-        }
-    },
-    "E308 LC24": {
-        "Tuesday": {
-            "03:30 PM": [
-                "3S11",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "3S11",
-                "UHU005P",
-                "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ]
-        }
-    },
-    "E308 LC26": {
-        "Thursday": {
             "09:40 AM": [
                 "3S12",
                 "UHU005P",
@@ -14343,6 +15411,18 @@
             ],
             "10:30 AM": [
                 "3S12",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "4B13",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "4B13",
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
                 "Practical"
@@ -16944,6 +18024,38 @@
         }
     },
     "F206": {
+        "Thursday": {
+            "11:20 AM": [
+                "4G14",
+                "UBT837L",
+                "UBT837",
+                "Lecture"
+            ],
+            "12:10 PM": [
+                "4G14",
+                "UBT839L",
+                "UBT839",
+                "Lecture"
+            ],
+            "09:40 AM": [
+                "3R12",
+                "UHU044P",
+                "BUSINESS COMMUNICATION & VALUE SCIENCE-IV",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "3R12",
+                "UHU044P",
+                "BUSINESS COMMUNICATION & VALUE SCIENCE-IV",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "4G14",
+                "UBT822L",
+                "ENVIRONMENTAL BIOTECHNOLOGY",
+                "Lecture"
+            ]
+        },
         "Monday": {
             "10:30 AM": [
                 "4G14",
@@ -17028,26 +18140,6 @@
                 "Tutorial"
             ]
         },
-        "Thursday": {
-            "11:20 AM": [
-                "4G14",
-                "UBT837L",
-                "UBT837",
-                "Lecture"
-            ],
-            "12:10 PM": [
-                "4G14",
-                "UBT839L",
-                "UBT839",
-                "Lecture"
-            ],
-            "02:40 PM": [
-                "4G14",
-                "UBT822L",
-                "ENVIRONMENTAL BIOTECHNOLOGY",
-                "Lecture"
-            ]
-        },
         "Friday": {
             "09:40 AM": [
                 "4G14",
@@ -17084,34 +18176,6 @@
                 "UBT802T",
                 "NANO-BIOTECHNOLOGY",
                 "Tutorial"
-            ]
-        }
-    },
-    "F206 NSD": {
-        "Thursday": {
-            "11:20 AM": [
-                "3R13",
-                "UHU046P",
-                "ADVANCE FINANCE",
-                "Practical"
-            ],
-            "12:10 PM": [
-                "3R13",
-                "UHU046P",
-                "ADVANCE FINANCE",
-                "Practical"
-            ],
-            "09:40 AM": [
-                "3R12",
-                "UHU044P",
-                "BUSINESS COMMUNICATION & VALUE SCIENCE-IV",
-                "Practical"
-            ],
-            "10:30 AM": [
-                "3R12",
-                "UHU044P",
-                "BUSINESS COMMUNICATION & VALUE SCIENCE-IV",
-                "Practical"
             ]
         }
     },
@@ -17960,6 +19024,18 @@
                 "UEC867T",
                 "MODERN CONTROL THEORY",
                 "Tutorial"
+            ],
+            "09:40 AM": [
+                "3C16",
+                "UTA025P",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "3C16",
+                "UTA025P",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Practical"
             ]
         },
         "Monday": {
@@ -18013,6 +19089,18 @@
                 "MODERN CONTROL THEORY",
                 "Tutorial"
             ],
+            "03:30 PM": [
+                "3P14",
+                "UTA025P",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3P14",
+                "UTA025P",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Practical"
+            ],
             "12:10 PM": [
                 "3Q22",
                 "UTA025T",
@@ -18036,38 +19124,6 @@
                 "UTA025T",
                 "INNOVATION AND ENTREPRENEURSHIP",
                 "Tutorial"
-            ]
-        }
-    },
-    "F301 HH": {
-        "Tuesday": {
-            "03:30 PM": [
-                "3P14",
-                "UTA025P",
-                "INNOVATION AND ENTREPRENEURSHIP",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "3P14",
-                "UTA025P",
-                "INNOVATION AND ENTREPRENEURSHIP",
-                "Practical"
-            ]
-        }
-    },
-    "F301 SCB": {
-        "Friday": {
-            "09:40 AM": [
-                "3C16",
-                "UTA025P",
-                "INNOVATION AND ENTREPRENEURSHIP",
-                "Practical"
-            ],
-            "10:30 AM": [
-                "3C16",
-                "UTA025P",
-                "INNOVATION AND ENTREPRENEURSHIP",
-                "Practical"
             ]
         }
     },
@@ -20107,13 +21163,13 @@
                 "ENGINEERING DRAWING",
                 "Tutorial"
             ],
-            "08:50 AM": [
+            "08:00 AM": [
                 "1A93",
                 "UES101T",
                 "ENGINEERING DRAWING",
                 "Tutorial"
             ],
-            "08:00 AM": [
+            "08:50 AM": [
                 "1A93",
                 "UES101T",
                 "ENGINEERING DRAWING",
@@ -20232,22 +21288,6 @@
                 "UES101T",
                 "ENGINEERING DRAWING",
                 "Tutorial"
-            ]
-        }
-    },
-    "F311 APC-7": {
-        "Wednesday": {
-            "08:00 AM": [
-                "1A92",
-                "UES101P",
-                "ENGINEERING DRAWING",
-                "Practical"
-            ],
-            "08:50 AM": [
-                "1A92",
-                "UES101P",
-                "ENGINEERING DRAWING",
-                "Practical"
             ]
         }
     },
@@ -20956,11 +21996,7 @@
                 "UME513T",
                 "DYNAMICS AND VIBRATIONS",
                 "Tutorial"
-            ]
-        }
-    },
-    "F315 LC24": {
-        "Monday": {
+            ],
             "09:40 AM": [
                 "3I13",
                 "UHU005P",
@@ -20998,6 +22034,36 @@
                 "UEC750L",
                 "MOS CIRCUIT DESIGN",
                 "Lecture"
+            ]
+        }
+    },
+    "FIRST": {
+        "Monday": {
+            "09:40 AM": [
+                "2X11",
+                "UAI401P",
+                "UAI401",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "2X11",
+                "UAI401P",
+                "UAI401",
+                "Practical"
+            ]
+        },
+        "Tuesday": {
+            "01:50 PM": [
+                "2X12",
+                "UAI401P",
+                "UAI401",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "2X12",
+                "UAI401P",
+                "UAI401",
+                "Practical"
             ]
         }
     },
@@ -21075,6 +22141,36 @@
                 "3H23",
                 "UME723P",
                 "FLUID MACHINES",
+                "Practical"
+            ]
+        }
+    },
+    "FROM": {
+        "Monday": {
+            "09:40 AM": [
+                "2X13",
+                "UAI401P",
+                "UAI401",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "2X13",
+                "UAI401P",
+                "UAI401",
+                "Practical"
+            ]
+        },
+        "Tuesday": {
+            "01:50 PM": [
+                "2X14",
+                "UAI401P",
+                "UAI401",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "2X14",
+                "UAI401P",
+                "UAI401",
                 "Practical"
             ]
         }
@@ -21172,9 +22268,45 @@
                 "UCB009L",
                 "Applied Chemistry",
                 "Lecture"
+            ],
+            "01:50 PM": [
+                "1B85",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1B85",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1G12",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1G12",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
             ]
         },
         "Tuesday": {
+            "03:30 PM": [
+                "1B15",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1B15",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
             "09:40 AM": [
                 "1B18",
                 "UCB009P",
@@ -21185,6 +22317,42 @@
                 "1B18",
                 "UCB009P",
                 "Applied Chemistry",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1B52",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1B52",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1B62",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1B62",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1B74",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1B74",
+                "UCB009P",
+                "Chemistry",
                 "Practical"
             ]
         },
@@ -21223,6 +22391,94 @@
                 "1B28",
                 "UCB009P",
                 "Applied Chemistry",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "1B38",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1B38",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1B93",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1B93",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ]
+        },
+        "Thursday": {
+            "03:30 PM": [
+                "1B32",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1B32",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "1B35",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1B35",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1B42",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1B42",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1B82",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1B82",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ]
+        },
+        "Friday": {
+            "11:20 AM": [
+                "1B65",
+                "UCB009P",
+                "Chemistry",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1B65",
+                "UCB009P",
+                "Chemistry",
                 "Practical"
             ]
         }
@@ -21331,6 +22587,18 @@
                 "2D13",
                 "UMA035P",
                 "OPTIMIZATION TECHNIQUES",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "2W13",
+                "UMA011P",
+                "NUMERICAL ANALYSIS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "2W13",
+                "UMA011P",
+                "NUMERICAL ANALYSIS",
                 "Practical"
             ],
             "01:50 PM": [
@@ -21505,22 +22773,6 @@
                 "3C33",
                 "UMA035P",
                 "OPTIMIZATION TECHNIQUES",
-                "Practical"
-            ]
-        }
-    },
-    "G201-PG": {
-        "Tuesday": {
-            "11:20 AM": [
-                "2W13",
-                "UMA011P",
-                "NUMERICAL ANALYSIS",
-                "Practical"
-            ],
-            "12:10 PM": [
-                "2W13",
-                "UMA011P",
-                "NUMERICAL ANALYSIS",
                 "Practical"
             ]
         }
@@ -22705,46 +23957,16 @@
             ]
         }
     },
-    "G310 LAB2": {
-        "Monday": {
-            "08:00 AM": [
-                "1A27",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ],
-            "08:50 AM": [
-                "1A27",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ]
-        },
-        "Friday": {
-            "03:30 PM": [
-                "1X22",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "1X22",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ]
-        }
-    },
-    "G310-2": {
+    "G310": {
         "Tuesday": {
             "11:20 AM": [
-                "1A13",
+                "1A14",
                 "UPH013P",
                 "PHYSICS",
                 "Practical"
             ],
             "12:10 PM": [
-                "1A13",
+                "1A14",
                 "UPH013P",
                 "PHYSICS",
                 "Practical"
@@ -22834,6 +24056,18 @@
                 "UPH013P",
                 "PHYSICS",
                 "Practical"
+            ],
+            "03:30 PM": [
+                "1X22",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1X22",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
             ]
         },
         "Monday": {
@@ -22845,6 +24079,18 @@
             ],
             "10:30 AM": [
                 "1A18",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1A27",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A27",
                 "UPH013P",
                 "PHYSICS",
                 "Practical"
@@ -22975,23 +24221,7 @@
             ]
         }
     },
-    "G310-3": {
-        "Tuesday": {
-            "11:20 AM": [
-                "1A14",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ],
-            "12:10 PM": [
-                "1A14",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ]
-        }
-    },
-    "G312 LAB1": {
+    "G312": {
         "Monday": {
             "09:40 AM": [
                 "1A11",
@@ -23016,24 +24246,32 @@
                 "UPH013P",
                 "PHYSICS",
                 "Practical"
-            ]
-        },
-        "Tuesday": {
+            ],
             "01:50 PM": [
-                "1A82",
+                "1A73",
                 "UPH013P",
                 "PHYSICS",
                 "Practical"
             ],
             "02:40 PM": [
-                "1A82",
+                "1A73",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1X14",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1X14",
                 "UPH013P",
                 "PHYSICS",
                 "Practical"
             ]
-        }
-    },
-    "G312-1": {
+        },
         "Tuesday": {
             "11:20 AM": [
                 "1A12",
@@ -23079,6 +24317,18 @@
             ],
             "04:20 PM": [
                 "1A41",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1A82",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A82",
                 "UPH013P",
                 "PHYSICS",
                 "Practical"
@@ -23135,6 +24385,18 @@
             ]
         },
         "Wednesday": {
+            "09:40 AM": [
+                "1A22",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A22",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
             "03:30 PM": [
                 "1A23",
                 "UPH013P",
@@ -23167,32 +24429,6 @@
             ],
             "12:10 PM": [
                 "1A61",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ]
-        },
-        "Monday": {
-            "01:50 PM": [
-                "1A73",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ],
-            "02:40 PM": [
-                "1A73",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ],
-            "03:30 PM": [
-                "1X14",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "1X14",
                 "UPH013P",
                 "PHYSICS",
                 "Practical"
@@ -23275,6 +24511,18 @@
                 "PROFESSIONAL COMMUNICATION",
                 "Practical"
             ],
+            "01:50 PM": [
+                "1A75",
+                "UHU003P",
+                "PROFESSIONAL COMMUNICATION",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A75",
+                "UHU003P",
+                "PROFESSIONAL COMMUNICATION",
+                "Practical"
+            ],
             "09:40 AM": [
                 "1X13",
                 "UHU003P",
@@ -23486,11 +24734,7 @@
                 "UHU003P",
                 "PROFESSIONAL COMMUNICATION",
                 "Practical"
-            ]
-        }
-    },
-    "G317 LC28": {
-        "Thursday": {
+            ],
             "08:00 AM": [
                 "3O31",
                 "UHU005P",
@@ -23501,22 +24745,6 @@
                 "3O31",
                 "UHU005P",
                 "HUMANITIES FOR ENGINEERS",
-                "Practical"
-            ]
-        }
-    },
-    "G317 LC6": {
-        "Monday": {
-            "01:50 PM": [
-                "1A75",
-                "UHU003P",
-                "PROFESSIONAL COMMUNICATION",
-                "Practical"
-            ],
-            "02:40 PM": [
-                "1A75",
-                "UHU003P",
-                "PROFESSIONAL COMMUNICATION",
                 "Practical"
             ]
         }
@@ -23565,63 +24793,7 @@
             ]
         }
     },
-    "G325 LAB3": {
-        "Monday": {
-            "08:00 AM": [
-                "1A28",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ],
-            "08:50 AM": [
-                "1A28",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ]
-        },
-        "Tuesday": {
-            "09:40 AM": [
-                "1A36",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ],
-            "10:30 AM": [
-                "1A36",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ]
-        },
-        "Wednesday": {
-            "09:40 AM": [
-                "1A62",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ],
-            "10:30 AM": [
-                "1A62",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ],
-            "01:50 PM": [
-                "1A65",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ],
-            "02:40 PM": [
-                "1A65",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ]
-        }
-    },
-    "G325-3": {
+    "G325": {
         "Friday": {
             "08:00 AM": [
                 "1A17",
@@ -23708,9 +24880,83 @@
                 "UPH013P",
                 "PHYSICS",
                 "Practical"
+            ],
+            "09:40 AM": [
+                "1A62",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A62",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1A65",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A65",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        },
+        "Monday": {
+            "08:00 AM": [
+                "1A28",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A28",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1A71",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A71",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1X12",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1X12",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
             ]
         },
         "Tuesday": {
+            "09:40 AM": [
+                "1A36",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A36",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
             "03:30 PM": [
                 "1A43",
                 "UPH013P",
@@ -23807,32 +25053,6 @@
                 "1J11",
                 "UPH011P",
                 "PHYSICS WITH CALCULUS -II",
-                "Practical"
-            ]
-        },
-        "Monday": {
-            "01:50 PM": [
-                "1A71",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ],
-            "02:40 PM": [
-                "1A71",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ],
-            "03:30 PM": [
-                "1X12",
-                "UPH013P",
-                "PHYSICS",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "1X12",
-                "UPH013P",
-                "PHYSICS",
                 "Practical"
             ]
         }
@@ -24034,31 +25254,45 @@
         },
         "Wednesday": {
             "03:30 PM": [
-                "3B13",
-                "UCE613P",
-                "FOUNDATION ENGINEERING",
+                "3U11",
+                "UCC601P",
+                "UCC601",
                 "Practical"
             ],
             "04:20 PM": [
-                "3B13",
-                "UCE613P",
-                "FOUNDATION ENGINEERING",
+                "3U11",
+                "UCC601P",
+                "UCC601",
                 "Practical"
             ]
         }
     },
-    "GEO APR": {
-        "Wednesday": {
+    "GK": {
+        "Monday": {
             "03:30 PM": [
-                "3U11",
-                "UCC601P",
-                "UCC601",
+                "2R11",
+                "UHU024P",
+                "DESIGN THINKING",
                 "Practical"
             ],
             "04:20 PM": [
-                "3U11",
-                "UCC601P",
-                "UCC601",
+                "2R11",
+                "UHU024P",
+                "DESIGN THINKING",
+                "Practical"
+            ]
+        },
+        "Thursday": {
+            "11:20 AM": [
+                "2R12",
+                "UHU024P",
+                "DESIGN THINKING",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "2R12",
+                "UHU024P",
+                "DESIGN THINKING",
                 "Practical"
             ]
         }
@@ -24471,7 +25705,23 @@
             ]
         }
     },
-    "HIGH VOLTAGE": {
+    "HH": {
+        "Tuesday": {
+            "03:30 PM": [
+                "3P14",
+                "UTA025P",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3P14",
+                "UTA025P",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Practical"
+            ]
+        }
+    },
+    "HIGH": {
         "Thursday": {
             "02:40 PM": [
                 "3D11",
@@ -24485,9 +25735,7 @@
                 "UEE510",
                 "Practical"
             ]
-        }
-    },
-    "HIGH VOLTAGE-C101": {
+        },
         "Wednesday": {
             "10:30 AM": [
                 "3D12",
@@ -24753,7 +26001,45 @@
             ]
         }
     },
-    "I&C": {
+    "I": {
+        "Wednesday": {
+            "01:50 PM": [
+                "2E11",
+                "UEI403P",
+                "ELECTRICAL AND ELECTRONIC MEASUREMENTS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "2E11",
+                "UEI403P",
+                "ELECTRICAL AND ELECTRONIC MEASUREMENTS",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "2E12",
+                "UEI403P",
+                "ELECTRICAL AND ELECTRONIC MEASUREMENTS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "2E12",
+                "UEI403P",
+                "ELECTRICAL AND ELECTRONIC MEASUREMENTS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "3S14",
+                "ULC602P",
+                "DIGITAL MEASUREMENT AND PROTECTION",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3S14",
+                "ULC602P",
+                "DIGITAL MEASUREMENT AND PROTECTION",
+                "Practical"
+            ]
+        },
         "Thursday": {
             "10:30 AM": [
                 "2E11",
@@ -24831,48 +26117,6 @@
                 "3S13",
                 "ULC602P",
                 "DIGITAL MEASUREMENT AND PROTECTION",
-                "Practical"
-            ]
-        },
-        "Wednesday": {
-            "03:30 PM": [
-                "3S14",
-                "ULC602P",
-                "DIGITAL MEASUREMENT AND PROTECTION",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "3S14",
-                "ULC602P",
-                "DIGITAL MEASUREMENT AND PROTECTION",
-                "Practical"
-            ]
-        }
-    },
-    "I&I": {
-        "Wednesday": {
-            "01:50 PM": [
-                "2E11",
-                "UEI403P",
-                "ELECTRICAL AND ELECTRONIC MEASUREMENTS",
-                "Practical"
-            ],
-            "02:40 PM": [
-                "2E11",
-                "UEI403P",
-                "ELECTRICAL AND ELECTRONIC MEASUREMENTS",
-                "Practical"
-            ],
-            "09:40 AM": [
-                "2E12",
-                "UEI403P",
-                "ELECTRICAL AND ELECTRONIC MEASUREMENTS",
-                "Practical"
-            ],
-            "10:30 AM": [
-                "2E12",
-                "UEI403P",
-                "ELECTRICAL AND ELECTRONIC MEASUREMENTS",
                 "Practical"
             ]
         }
@@ -26241,48 +27485,470 @@
             ]
         }
     },
-    "LAB": {
-        "Thursday": {
-            "08:00 AM": [
-                "3W11",
-                "UCS532P",
-                "COMPUTER VISION",
-                "Practical"
-            ],
-            "08:50 AM": [
-                "3W11",
-                "UCS532P",
-                "COMPUTER VISION",
-                "Practical"
-            ]
-        },
-        "Friday": {
+    "LAB1": {
+        "Monday": {
             "09:40 AM": [
-                "3W12",
-                "UCS732P",
-                "UCS732",
+                "1A11",
+                "UPH013P",
+                "PHYSICS",
                 "Practical"
             ],
             "10:30 AM": [
-                "3W12",
-                "UCS732P",
-                "UCS732",
+                "1A11",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1A26",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A26",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        },
+        "Tuesday": {
+            "01:50 PM": [
+                "1A82",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A82",
+                "UPH013P",
+                "PHYSICS",
                 "Practical"
             ]
         }
     },
-    "LAB-1 G312": {
-        "Wednesday": {
+    "LAB2": {
+        "Monday": {
+            "08:00 AM": [
+                "1A27",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A27",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        },
+        "Friday": {
+            "03:30 PM": [
+                "1X22",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1X22",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        }
+    },
+    "LAB3": {
+        "Monday": {
+            "08:00 AM": [
+                "1A28",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A28",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        },
+        "Tuesday": {
             "09:40 AM": [
-                "1A22",
+                "1A36",
                 "UPH013P",
                 "PHYSICS",
                 "Practical"
             ],
             "10:30 AM": [
-                "1A22",
+                "1A36",
                 "UPH013P",
                 "PHYSICS",
+                "Practical"
+            ]
+        },
+        "Wednesday": {
+            "09:40 AM": [
+                "1A62",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A62",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1A65",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A65",
+                "UPH013P",
+                "PHYSICS",
+                "Practical"
+            ]
+        }
+    },
+    "LAV": {
+        "Tuesday": {
+            "01:50 PM": [
+                "2S12",
+                "UTA018P",
+                "OBJECT ORIENTED PROGRAMMING",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "2S12",
+                "UTA018P",
+                "OBJECT ORIENTED PROGRAMMING",
+                "Practical"
+            ]
+        }
+    },
+    "LC-1": {
+        "Thursday": {
+            "09:40 AM": [
+                "1A62",
+                "UHU003P",
+                "PROFESSIONAL COMMUNICATION",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A62",
+                "UHU003P",
+                "PROFESSIONAL COMMUNICATION",
+                "Practical"
+            ]
+        }
+    },
+    "LC10": {
+        "Thursday": {
+            "01:50 PM": [
+                "1A71",
+                "UHU003P",
+                "PROFESSIONAL COMMUNICATION",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A71",
+                "UHU003P",
+                "PROFESSIONAL COMMUNICATION",
+                "Practical"
+            ]
+        }
+    },
+    "LC17": {
+        "Monday": {
+            "03:30 PM": [
+                "3E11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3E11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        },
+        "Tuesday": {
+            "11:20 AM": [
+                "3E13",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "3E13",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        }
+    },
+    "LC18": {
+        "Friday": {
+            "01:50 PM": [
+                "3G11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "3G11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "3G14",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "3G14",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        }
+    },
+    "LC19": {
+        "Wednesday": {
+            "08:00 AM": [
+                "3D12",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "3D12",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        }
+    },
+    "LC20": {
+        "Monday": {
+            "09:40 AM": [
+                "3I12",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "3I12",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "4B11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "4B11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        },
+        "Tuesday": {
+            "03:30 PM": [
+                "3G12",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3G12",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        }
+    },
+    "LC21": {
+        "Thursday": {
+            "03:30 PM": [
+                "4B12",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "4B12",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        }
+    },
+    "LC22": {
+        "Wednesday": {
+            "01:50 PM": [
+                "3H21",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "3H21",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        },
+        "Friday": {
+            "01:00 PM": [
+                "3W13",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "3W13",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        }
+    },
+    "LC23": {
+        "Tuesday": {
+            "08:00 AM": [
+                "3H22",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "3H22",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        },
+        "Friday": {
+            "01:00 PM": [
+                "3W12",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "3W12",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        }
+    },
+    "LC24": {
+        "Monday": {
+            "09:40 AM": [
+                "3I13",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "3I13",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        },
+        "Tuesday": {
+            "03:30 PM": [
+                "3S11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3S11",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        }
+    },
+    "LC26": {
+        "Thursday": {
+            "09:40 AM": [
+                "3S12",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "3S13",
+                "ULC601P",
+                "MATHEMATICS FOR SIGNAL PROCESSING",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "3S13",
+                "ULC601P",
+                "MATHEMATICS FOR SIGNAL PROCESSING",
+                "Practical"
+            ]
+        }
+    },
+    "LC28": {
+        "Thursday": {
+            "08:00 AM": [
+                "3O31",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "3O31",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        }
+    },
+    "LC29": {
+        "Wednesday": {
+            "08:00 AM": [
+                "3S15",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "3S15",
+                "UHU005P",
+                "HUMANITIES FOR ENGINEERS",
+                "Practical"
+            ]
+        }
+    },
+    "LC6": {
+        "Monday": {
+            "01:50 PM": [
+                "1A75",
+                "UHU003P",
+                "PROFESSIONAL COMMUNICATION",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A75",
+                "UHU003P",
+                "PROFESSIONAL COMMUNICATION",
                 "Practical"
             ]
         }
@@ -28685,6 +30351,18 @@
                 "COMPUTER NETWORKS",
                 "Lecture"
             ],
+            "08:00 AM": [
+                "2C55",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "2C55",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
             "09:40 AM": [
                 "2C55",
                 "UMA401L",
@@ -28717,6 +30395,18 @@
             ]
         },
         "Thursday": {
+            "08:00 AM": [
+                "2C35",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "2C35",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
             "01:50 PM": [
                 "2C35",
                 "UCS310L",
@@ -28767,36 +30457,6 @@
             ]
         }
     },
-    "LT301 UCS321P": {
-        "Thursday": {
-            "08:00 AM": [
-                "2C35",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ],
-            "08:50 AM": [
-                "2C35",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ]
-        },
-        "Friday": {
-            "08:00 AM": [
-                "2C55",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ],
-            "08:50 AM": [
-                "2C55",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ]
-        }
-    },
     "LT302": {
         "Wednesday": {
             "08:00 AM": [
@@ -28822,6 +30482,18 @@
                 "UTA024L",
                 "Engineering Design Project - 2",
                 "Lecture"
+            ],
+            "11:20 AM": [
+                "2C45",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "2C45",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
             ],
             "03:30 PM": [
                 "2C55",
@@ -28856,16 +30528,16 @@
         },
         "Thursday": {
             "03:30 PM": [
-                "2C14",
-                "UCS321L",
+                "2C25",
+                "UCS321P",
                 "AI FOR ENGINEERS",
-                "Lecture"
+                "Practical"
             ],
             "04:20 PM": [
-                "2C14",
-                "UCS321L",
+                "2C25",
+                "UCS321P",
                 "AI FOR ENGINEERS",
-                "Lecture"
+                "Practical"
             ],
             "01:00 PM": [
                 "2C25",
@@ -29127,36 +30799,6 @@
             ]
         }
     },
-    "LT302 UCS321P": {
-        "Thursday": {
-            "03:30 PM": [
-                "2C25",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "2C25",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ]
-        },
-        "Wednesday": {
-            "11:20 AM": [
-                "2C45",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ],
-            "12:10 PM": [
-                "2C45",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ]
-        }
-    },
     "LT303": {
         "Wednesday": {
             "09:40 AM": [
@@ -29182,6 +30824,18 @@
                 "UCS415L",
                 "Design and Analysis of Algorithms",
                 "Lecture"
+            ],
+            "03:30 PM": [
+                "2Q15",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "2Q15",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
             ],
             "01:50 PM": [
                 "2Q35",
@@ -29395,6 +31049,18 @@
                 "Database Management System",
                 "Lecture"
             ],
+            "03:30 PM": [
+                "2Q35",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "2Q35",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
             "11:20 AM": [
                 "3C25",
                 "UMA035L",
@@ -29421,70 +31087,32 @@
             ]
         }
     },
-    "LT303 UCS321P": {
-        "Wednesday": {
-            "03:30 PM": [
-                "2Q15",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "2Q15",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ]
-        },
-        "Monday": {
-            "03:30 PM": [
-                "2Q35",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "2Q35",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ]
-        }
-    },
     "LT401": {
-        "Monday": {
-            "09:40 AM": [
-                "2C55",
-                "UTA024L",
-                "Engineering Design Project - 2",
-                "Lecture"
-            ],
-            "10:30 AM": [
-                "2C55",
-                "UCS415L",
-                "Design and Analysis of Algorithms",
-                "Lecture"
-            ],
-            "01:00 PM": [
-                "3C55",
-                "UCS617L",
-                "MICROPROCESSOR-BASED SYSTEMS DESIGN",
-                "Lecture"
-            ],
-            "11:20 AM": [
-                "3C65",
-                "UMA035L",
-                "OPTIMIZATION TECHNIQUES",
-                "Lecture"
-            ],
-            "12:10 PM": [
-                "3C65",
-                "UCS701L",
-                "THEORY OF COMPUTATION",
-                "Lecture"
-            ]
-        },
         "Friday": {
+            "03:30 PM": [
+                "2C18",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "2C18",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "2C65",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "2C65",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
             "09:40 AM": [
                 "2C65",
                 "UCS415L",
@@ -29523,6 +31151,38 @@
             ],
             "02:40 PM": [
                 "3Q16",
+                "UCS701L",
+                "THEORY OF COMPUTATION",
+                "Lecture"
+            ]
+        },
+        "Monday": {
+            "09:40 AM": [
+                "2C55",
+                "UTA024L",
+                "Engineering Design Project - 2",
+                "Lecture"
+            ],
+            "10:30 AM": [
+                "2C55",
+                "UCS415L",
+                "Design and Analysis of Algorithms",
+                "Lecture"
+            ],
+            "01:00 PM": [
+                "3C55",
+                "UCS617L",
+                "MICROPROCESSOR-BASED SYSTEMS DESIGN",
+                "Lecture"
+            ],
+            "11:20 AM": [
+                "3C65",
+                "UMA035L",
+                "OPTIMIZATION TECHNIQUES",
+                "Lecture"
+            ],
+            "12:10 PM": [
+                "3C65",
                 "UCS701L",
                 "THEORY OF COMPUTATION",
                 "Lecture"
@@ -29679,34 +31339,6 @@
             ]
         }
     },
-    "LT401 UCS321P": {
-        "Friday": {
-            "03:30 PM": [
-                "2C18",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "2C18",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ],
-            "08:00 AM": [
-                "2C65",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ],
-            "08:50 AM": [
-                "2C65",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ]
-        }
-    },
     "LT401L": {
         "Wednesday": {
             "08:50 AM": [
@@ -29742,6 +31374,18 @@
                 "UCS415L",
                 "Design and Analysis of Algorithms",
                 "Lecture"
+            ],
+            "03:30 PM": [
+                "2C75",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "2C75",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
             ],
             "08:00 AM": [
                 "2Q25",
@@ -29830,6 +31474,38 @@
                 "Lecture"
             ]
         },
+        "Friday": {
+            "09:40 AM": [
+                "2Q25",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "2Q25",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "01:00 PM": [
+                "3Q26",
+                "UMA035L",
+                "OPTIMIZATION TECHNIQUES",
+                "Lecture"
+            ],
+            "01:50 PM": [
+                "3Q26",
+                "UCS701L",
+                "THEORY OF COMPUTATION",
+                "Lecture"
+            ],
+            "02:40 PM": [
+                "3Q26",
+                "UCS619L",
+                "QUANTUM COMPUTING",
+                "Lecture"
+            ]
+        },
         "Wednesday": {
             "11:20 AM": [
                 "3C25",
@@ -29898,56 +31574,6 @@
                 "UCS701L",
                 "THEORY OF COMPUTATION",
                 "Lecture"
-            ]
-        },
-        "Friday": {
-            "01:00 PM": [
-                "3Q26",
-                "UMA035L",
-                "OPTIMIZATION TECHNIQUES",
-                "Lecture"
-            ],
-            "01:50 PM": [
-                "3Q26",
-                "UCS701L",
-                "THEORY OF COMPUTATION",
-                "Lecture"
-            ],
-            "02:40 PM": [
-                "3Q26",
-                "UCS619L",
-                "QUANTUM COMPUTING",
-                "Lecture"
-            ]
-        }
-    },
-    "LT402 UCS321P": {
-        "Thursday": {
-            "03:30 PM": [
-                "2C75",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "2C75",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ]
-        },
-        "Friday": {
-            "09:40 AM": [
-                "2Q25",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
-            ],
-            "10:30 AM": [
-                "2Q25",
-                "UCS321P",
-                "AI FOR ENGINEERS",
-                "Practical"
             ]
         }
     },
@@ -30192,6 +31818,20 @@
         }
     },
     "MICRO": {
+        "Tuesday": {
+            "09:40 AM": [
+                "1G12",
+                "UBT203P",
+                "UBT203",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1G12",
+                "UBT203P",
+                "UBT203",
+                "Practical"
+            ]
+        },
         "Friday": {
             "01:50 PM": [
                 "3G15",
@@ -30215,22 +31855,6 @@
                 "3G15",
                 "UBT620P",
                 "PROCESS LAB",
-                "Practical"
-            ]
-        }
-    },
-    "MICRO BIO": {
-        "Tuesday": {
-            "09:40 AM": [
-                "1G12",
-                "UBT203P",
-                "UBT203",
-                "Practical"
-            ],
-            "10:30 AM": [
-                "1G12",
-                "UBT203P",
-                "UBT203",
                 "Practical"
             ]
         }
@@ -30338,6 +31962,22 @@
                 "UCS761P",
                 "DEEP LEARNING",
                 "Lecture"
+            ]
+        }
+    },
+    "MNP": {
+        "Monday": {
+            "01:50 PM": [
+                "1A37",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A37",
+                "UES101P",
+                "ENGINEERING DRAWING",
+                "Practical"
             ]
         }
     },
@@ -30580,11 +32220,7 @@
                 "UEE638",
                 "PLC AND SCADA",
                 "Practical"
-            ]
-        }
-    },
-    "NETWORK LC26": {
-        "Thursday": {
+            ],
             "10:30 AM": [
                 "3S13",
                 "ULC601P",
@@ -31239,6 +32875,64 @@
             ]
         }
     },
+    "NSD": {
+        "Thursday": {
+            "11:20 AM": [
+                "3R13",
+                "UHU046P",
+                "ADVANCE FINANCE",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "3R13",
+                "UHU046P",
+                "ADVANCE FINANCE",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "3R12",
+                "UHU044P",
+                "BUSINESS COMMUNICATION & VALUE SCIENCE-IV",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "3R12",
+                "UHU044P",
+                "BUSINESS COMMUNICATION & VALUE SCIENCE-IV",
+                "Practical"
+            ]
+        },
+        "Wednesday": {
+            "01:50 PM": [
+                "3R13",
+                "UHU044P",
+                "BUSINESS COMMUNICATION & VALUE SCIENCE-IV",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "3R13",
+                "UHU044P",
+                "BUSINESS COMMUNICATION & VALUE SCIENCE-IV",
+                "Practical"
+            ]
+        }
+    },
+    "PA": {
+        "Thursday": {
+            "03:30 PM": [
+                "1A54",
+                "UHU003P",
+                "PROFESSIONAL COMMUNICATION",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1A54",
+                "UHU003P",
+                "PROFESSIONAL COMMUNICATION",
+                "Practical"
+            ]
+        }
+    },
     "PE": {
         "Thursday": {
             "02:40 PM": [
@@ -31328,6 +33022,14 @@
         }
     },
     "PG": {
+        "Tuesday": {
+            "01:50 PM": [
+                "3R13",
+                "UCT633L",
+                "DATA MINING & ANALYTICS",
+                "Lecture"
+            ]
+        },
         "Wednesday": {
             "08:00 AM": [
                 "3C14",
@@ -31340,16 +33042,6 @@
                 "UCS761P",
                 "DEEP LEARNING",
                 "Practical"
-            ]
-        }
-    },
-    "PG AS-2": {
-        "Tuesday": {
-            "01:50 PM": [
-                "3R13",
-                "UCT633L",
-                "DATA MINING & ANALYTICS",
-                "Lecture"
             ]
         },
         "Monday": {
@@ -31633,6 +33325,34 @@
                 "3C14",
                 "UCS654P",
                 "PREDICTIVE ANALYTICS USING STATISTICS",
+                "Practical"
+            ]
+        }
+    },
+    "PKC": {
+        "Tuesday": {
+            "11:20 AM": [
+                "1A55",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A55",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1X14",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1X14",
+                "UES102P",
+                "Manufacturing Processes",
                 "Practical"
             ]
         }
@@ -33023,6 +34743,18 @@
                 "OBJECT ORIENTED PROGRAMMING",
                 "Practical"
             ],
+            "01:50 PM": [
+                "2S12",
+                "UTA018P",
+                "OBJECT ORIENTED PROGRAMMING",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "2S12",
+                "UTA018P",
+                "OBJECT ORIENTED PROGRAMMING",
+                "Practical"
+            ],
             "08:00 AM": [
                 "2C54",
                 "UCS310P",
@@ -33185,22 +34917,6 @@
             ]
         }
     },
-    "PL-5 LAV": {
-        "Tuesday": {
-            "01:50 PM": [
-                "2S12",
-                "UTA018P",
-                "OBJECT ORIENTED PROGRAMMING",
-                "Practical"
-            ],
-            "02:40 PM": [
-                "2S12",
-                "UTA018P",
-                "OBJECT ORIENTED PROGRAMMING",
-                "Practical"
-            ]
-        }
-    },
     "PL109": {
         "Wednesday": {
             "09:40 AM": [
@@ -33218,6 +34934,20 @@
         }
     },
     "PROCESS": {
+        "Monday": {
+            "01:50 PM": [
+                "2G12",
+                "UBT411P",
+                "UBT411",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "2G12",
+                "UBT411P",
+                "UBT411",
+                "Practical"
+            ]
+        },
         "Friday": {
             "09:40 AM": [
                 "3E11",
@@ -33229,6 +34959,30 @@
                 "3E11",
                 "UEI604P",
                 "PROCESS DYNAMICS AND CONTROL",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "3G15",
+                "UBT620P",
+                "PROCESS LAB",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "3G15",
+                "UBT620P",
+                "PROCESS LAB",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "3G15",
+                "UBT620P",
+                "PROCESS LAB",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3G15",
+                "UBT620P",
+                "PROCESS LAB",
                 "Practical"
             ]
         }
@@ -33606,6 +35360,20 @@
         }
     },
     "ROBOTICS": {
+        "Wednesday": {
+            "08:00 AM": [
+                "2W11",
+                "UME518P",
+                "UME518",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "2W11",
+                "UME518P",
+                "UME518",
+                "Practical"
+            ]
+        },
         "Tuesday": {
             "11:20 AM": [
                 "2W14",
@@ -33629,20 +35397,6 @@
                 "3W13",
                 "URA621",
                 "URA621",
-                "Practical"
-            ]
-        },
-        "Wednesday": {
-            "08:00 AM": [
-                "2W11",
-                "UME518P",
-                "UME518",
-                "Practical"
-            ],
-            "08:50 AM": [
-                "2W11",
-                "UME518P",
-                "UME518",
                 "Practical"
             ]
         },
@@ -33675,22 +35429,6 @@
             ]
         }
     },
-    "ROBOTICS ALB": {
-        "Wednesday": {
-            "08:00 AM": [
-                "2H13",
-                "UME416P",
-                "UME416",
-                "Practical"
-            ],
-            "08:50 AM": [
-                "2H13",
-                "UME416P",
-                "UME416",
-                "Practical"
-            ]
-        }
-    },
     "RT": {
         "Thursday": {
             "03:30 PM": [
@@ -33703,6 +35441,98 @@
                 "3S15",
                 "ULC621P",
                 "ULC621",
+                "Practical"
+            ]
+        }
+    },
+    "RTK": {
+        "Wednesday": {
+            "03:30 PM": [
+                "1A75",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1A75",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ]
+        },
+        "Thursday": {
+            "10:30 AM": [
+                "1A95",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1A95",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ]
+        }
+    },
+    "SAT": {
+        "Tuesday": {
+            "08:00 AM": [
+                "1A38",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A38",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ]
+        }
+    },
+    "SCB": {
+        "Friday": {
+            "09:40 AM": [
+                "3C16",
+                "UTA025P",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "3C16",
+                "UTA025P",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Practical"
+            ]
+        },
+        "Thursday": {
+            "01:50 PM": [
+                "3C18",
+                "UTA025P",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "3C18",
+                "UTA025P",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Practical"
+            ]
+        }
+    },
+    "SCS": {
+        "Wednesday": {
+            "08:00 AM": [
+                "1A65",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A65",
+                "UES102P",
+                "Manufacturing Processes",
                 "Practical"
             ]
         }
@@ -34153,6 +35983,36 @@
             ]
         }
     },
+    "SECOND": {
+        "Monday": {
+            "09:40 AM": [
+                "2X13",
+                "UAI401P",
+                "UAI401",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "2X13",
+                "UAI401P",
+                "UAI401",
+                "Practical"
+            ]
+        },
+        "Tuesday": {
+            "01:50 PM": [
+                "2X14",
+                "UAI401P",
+                "UAI401",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "2X14",
+                "UAI401P",
+                "UAI401",
+                "Practical"
+            ]
+        }
+    },
     "SEE": {
         "Monday": {
             "03:30 PM": [
@@ -34166,25 +36026,7 @@
                 "UCE615P",
                 "UCE615",
                 "Practical"
-            ]
-        },
-        "Thursday": {
-            "03:30 PM": [
-                "3U11",
-                "UCC602P",
-                "UCC602",
-                "Practical"
             ],
-            "04:20 PM": [
-                "3U11",
-                "UCC602P",
-                "UCC602",
-                "Practical"
-            ]
-        }
-    },
-    "SEE AP-C15": {
-        "Monday": {
             "08:50 AM": [
                 "3B13",
                 "UCE615P",
@@ -34197,9 +36039,85 @@
                 "UCE615",
                 "Practical"
             ]
+        },
+        "Thursday": {
+            "03:30 PM": [
+                "3U11",
+                "UCC602P",
+                "UCC602",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3U11",
+                "UCC602P",
+                "UCC602",
+                "Practical"
+            ]
         }
     },
     "SHOP": {
+        "Tuesday": {
+            "09:40 AM": [
+                "1A15",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A15",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1A38",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A38",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1A55",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A55",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1A85",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1A85",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "01:50 PM": [
+                "1X14",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1X14",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ]
+        },
         "Monday": {
             "11:20 AM": [
                 "1A22",
@@ -34212,25 +36130,81 @@
                 "UES102P",
                 "Manufacturing Processes",
                 "Practical"
-            ]
-        },
-        "Thursday": {
+            ],
+            "01:50 PM": [
+                "1A27",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A27",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
             "03:30 PM": [
-                "2H23",
+                "2H13",
                 "UME310P",
                 "MANUFACTURING TECHNOLOGY",
                 "Practical"
             ],
             "04:20 PM": [
-                "2H23",
+                "2H13",
                 "UME310P",
                 "MANUFACTURING TECHNOLOGY",
                 "Practical"
             ]
-        }
-    },
-    "SHOP AMG": {
+        },
         "Wednesday": {
+            "09:40 AM": [
+                "1A34",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "1A34",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "11:20 AM": [
+                "1A45",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A45",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "1A65",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "1A65",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "1A75",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1A75",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
             "01:50 PM": [
                 "4H11",
                 "UME735P",
@@ -34243,20 +36217,30 @@
                 "MACHINING SCIENCE",
                 "Practical"
             ]
-        }
-    },
-    "SHOP DG": {
-        "Wednesday": {
-            "09:40 AM": [
-                "1A34",
+        },
+        "Thursday": {
+            "10:30 AM": [
+                "1A95",
                 "UES102P",
                 "Manufacturing Processes",
                 "Practical"
             ],
-            "10:30 AM": [
-                "1A34",
+            "11:20 AM": [
+                "1A95",
                 "UES102P",
                 "Manufacturing Processes",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "2H23",
+                "UME310P",
+                "MANUFACTURING TECHNOLOGY",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "2H23",
+                "UME310P",
+                "MANUFACTURING TECHNOLOGY",
                 "Practical"
             ]
         },
@@ -34275,168 +36259,18 @@
             ]
         }
     },
-    "SHOP DMG": {
-        "Tuesday": {
-            "09:40 AM": [
-                "1A15",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ],
-            "10:30 AM": [
-                "1A15",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ]
-        }
-    },
-    "SHOP PKC": {
-        "Tuesday": {
-            "11:20 AM": [
-                "1A55",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ],
-            "12:10 PM": [
-                "1A55",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ],
-            "01:50 PM": [
-                "1X14",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ],
-            "02:40 PM": [
-                "1X14",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ]
-        }
-    },
-    "SHOP RTK": {
-        "Wednesday": {
-            "03:30 PM": [
-                "1A75",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "1A75",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ]
-        },
-        "Thursday": {
-            "10:30 AM": [
-                "1A95",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ],
-            "11:20 AM": [
-                "1A95",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ]
-        }
-    },
-    "SHOP SAT": {
-        "Tuesday": {
-            "08:00 AM": [
-                "1A38",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ],
-            "08:50 AM": [
-                "1A38",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ]
-        }
-    },
-    "SHOP SCS": {
-        "Wednesday": {
-            "08:00 AM": [
-                "1A65",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ],
-            "08:50 AM": [
-                "1A65",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ]
-        }
-    },
-    "SHOP VJ": {
-        "Monday": {
-            "01:50 PM": [
-                "1A27",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ],
-            "02:40 PM": [
-                "1A27",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ]
-        },
-        "Wednesday": {
-            "11:20 AM": [
-                "1A45",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ],
-            "12:10 PM": [
-                "1A45",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ]
-        }
-    },
-    "SHOP VKS": {
-        "Tuesday": {
-            "03:30 PM": [
-                "1A85",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ],
-            "04:20 PM": [
-                "1A85",
-                "UES102P",
-                "Manufacturing Processes",
-                "Practical"
-            ]
-        },
+    "SIGNAL": {
         "Monday": {
             "03:30 PM": [
-                "2H13",
-                "UME310P",
-                "MANUFACTURING TECHNOLOGY",
+                "3J11",
+                "UBM602P",
+                "INTRODUCTION TO DIGITAL  ELECTRONICS",
                 "Practical"
             ],
             "04:20 PM": [
-                "2H13",
-                "UME310P",
-                "MANUFACTURING TECHNOLOGY",
+                "3J11",
+                "UBM602P",
+                "INTRODUCTION TO DIGITAL  ELECTRONICS",
                 "Practical"
             ]
         }
@@ -35035,6 +36869,128 @@
             ]
         }
     },
+    "UCS321P": {
+        "Friday": {
+            "03:30 PM": [
+                "2C18",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "2C18",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "2C65",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "2C65",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "2Q25",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "2Q25",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ]
+        },
+        "Thursday": {
+            "03:30 PM": [
+                "2C75",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "2C75",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "08:00 AM": [
+                "2C35",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "08:50 AM": [
+                "2C35",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ]
+        },
+        "Wednesday": {
+            "11:20 AM": [
+                "2C45",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "2C45",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "03:30 PM": [
+                "2Q15",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "2Q15",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ]
+        },
+        "Monday": {
+            "03:30 PM": [
+                "2Q35",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "2Q35",
+                "UCS321P",
+                "AI FOR ENGINEERS",
+                "Practical"
+            ]
+        }
+    },
+    "VG": {
+        "Thursday": {
+            "01:50 PM": [
+                "3C24",
+                "UTA025P",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "3C24",
+                "UTA025P",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Practical"
+            ]
+        }
+    },
     "VI": {
         "Friday": {
             "02:40 PM": [
@@ -35081,7 +37037,93 @@
             ]
         }
     },
+    "VJ": {
+        "Monday": {
+            "01:50 PM": [
+                "1A27",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "1A27",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ]
+        },
+        "Wednesday": {
+            "11:20 AM": [
+                "1A45",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "12:10 PM": [
+                "1A45",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ]
+        }
+    },
+    "VKS": {
+        "Tuesday": {
+            "03:30 PM": [
+                "1A85",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "1A85",
+                "UES102P",
+                "Manufacturing Processes",
+                "Practical"
+            ]
+        },
+        "Monday": {
+            "03:30 PM": [
+                "2H13",
+                "UME310P",
+                "MANUFACTURING TECHNOLOGY",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "2H13",
+                "UME310P",
+                "MANUFACTURING TECHNOLOGY",
+                "Practical"
+            ]
+        }
+    },
     "VL301": {
+        "Thursday": {
+            "01:50 PM": [
+                "3C24",
+                "UTA025P",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "3C24",
+                "UTA025P",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Practical"
+            ],
+            "04:20 PM": [
+                "3Q14",
+                "UTA025T",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Tutorial"
+            ],
+            "03:30 PM": [
+                "3Q14",
+                "UTA025T",
+                "INNOVATION AND ENTREPRENEURSHIP",
+                "Tutorial"
+            ]
+        },
         "Monday": {
             "10:30 AM": [
                 "3C52",
@@ -35121,34 +37163,64 @@
                 "INNOVATION AND ENTREPRENEURSHIP",
                 "Tutorial"
             ]
-        },
+        }
+    },
+    "VOLTAGE": {
         "Thursday": {
-            "04:20 PM": [
-                "3Q14",
-                "UTA025T",
-                "INNOVATION AND ENTREPRENEURSHIP",
-                "Tutorial"
+            "02:40 PM": [
+                "3D11",
+                "UEE510P",
+                "UEE510",
+                "Practical"
             ],
             "03:30 PM": [
-                "3Q14",
-                "UTA025T",
-                "INNOVATION AND ENTREPRENEURSHIP",
-                "Tutorial"
+                "3D11",
+                "UEE510P",
+                "UEE510",
+                "Practical"
             ]
         }
     },
-    "VL301 VG": {
-        "Thursday": {
-            "01:50 PM": [
-                "3C24",
-                "UTA025P",
-                "INNOVATION AND ENTREPRENEURSHIP",
+    "VOLTAGE-C101": {
+        "Wednesday": {
+            "10:30 AM": [
+                "3D12",
+                "UEE510P",
+                "UEE510",
                 "Practical"
             ],
-            "02:40 PM": [
-                "3C24",
-                "UTA025P",
-                "INNOVATION AND ENTREPRENEURSHIP",
+            "11:20 AM": [
+                "3D12",
+                "UEE510P",
+                "UEE510",
+                "Practical"
+            ]
+        },
+        "Monday": {
+            "08:50 AM": [
+                "3D13",
+                "ULC601P",
+                "MATHEMATICS FOR SIGNAL PROCESSING",
+                "Practical"
+            ],
+            "09:40 AM": [
+                "3D13",
+                "ULC601P",
+                "MATHEMATICS FOR SIGNAL PROCESSING",
+                "Practical"
+            ]
+        },
+        "Tuesday": {
+            "09:40 AM": [
+                "3D14",
+                "UEE510P",
+                "UEE510",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "3D14",
+                "UEE510P",
+                "UEE510",
                 "Practical"
             ]
         }
@@ -35353,6 +37425,36 @@
                 "1X24",
                 "UES102P",
                 "Manufacturing Processes",
+                "Practical"
+            ]
+        }
+    },
+    "WEEK": {
+        "Monday": {
+            "09:40 AM": [
+                "2X13",
+                "UAI401P",
+                "UAI401",
+                "Practical"
+            ],
+            "10:30 AM": [
+                "2X13",
+                "UAI401P",
+                "UAI401",
+                "Practical"
+            ]
+        },
+        "Tuesday": {
+            "01:50 PM": [
+                "2X14",
+                "UAI401P",
+                "UAI401",
+                "Practical"
+            ],
+            "02:40 PM": [
+                "2X14",
+                "UAI401P",
+                "UAI401",
                 "Practical"
             ]
         }

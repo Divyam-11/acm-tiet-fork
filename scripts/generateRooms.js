@@ -39,53 +39,81 @@ try {
                         const subjects = subjectRaw ? subjectRaw.split('/').map(s => s.trim()) : [];
 
                         // Helper to normalize room names
-                        const normalizeRoom = (name) => {
-                            if (!name) return name;
+                        const normalizeAndSplit = (name) => {
+                            if (!name) return [];
                             let normalized = name.toUpperCase();
                             
+                            // Specific fix for CBOL-G141 -> CBOL G141
+                            normalized = normalized.replace(/CBOL-G141/g, 'CBOL G141');
+
                             // Remove common suffixes/garbage
                             normalized = normalized.replace(/\(.*\)/g, ''); // Remove content in parens e.g. (NEW)
-                            normalized = normalized.replace(/\s+LAB\s*$/i, ''); // Remove trailing LAB
-                            normalized = normalized.replace(/\s+LAB\b/i, ''); // Remove LAB word
-                            normalized = normalized.replace(/-NEW/i, ''); // Remove -NEW
-                            normalized = normalized.replace(/_NEW/i, ''); // Remove _NEW
+                            normalized = normalized.replace(/\bLAB\b/g, ''); // Remove LAB word
+                            normalized = normalized.replace(/-PG\b/g, ''); // Remove -PG
+                            normalized = normalized.replace(/-NEW\b/g, ''); // Remove -NEW
+                            normalized = normalized.replace(/_NEW\b/g, ''); // Remove _NEW
                             
-                            // Replace dashes with spaces if it makes sense, or just keep distinct?
-                            // User example: "es-1" vs "es-1 lab". "es-1 lab" -> "es-1"
-                            // "G309(NEW LAB) LAB" -> "G309  " -> "G309"
-                            // "G309-NEW LAB" -> "G309 " -> "G309"
+                            // Handle separators: AND, &, ,
+                            normalized = normalized.replace(/\s+AND\s+/g, ' ');
+                            normalized = normalized.replace(/[&,]/g, ' ');
+                            normalized = normalized.replace(/\//g, ' '); // Treat slash as space
                             
-                            return normalized.trim();
+                            // Split by space
+                            const parts = normalized.split(/\s+/).filter(p => p.length > 0);
+                            
+                            // Clean up parts (e.g. remove "NEW" if it stayed, short garbage?)
+                            // For now mostly trusting the split.
+                            return parts;
                         };
 
                         rooms.forEach((roomRawVal, index) => {
-                            if (!roomRawVal) return;
-                            
-                            const room = normalizeRoom(roomRawVal);
+                             if (!roomRawVal) return;
+                             
+                             const roomList = normalizeAndSplit(roomRawVal);
+                             
+                             roomList.forEach((room) => {
+                                 if (!room) return;
+                                 
+                                 // Mapping logic
+                                 let cCode = courseRaw;
+                                 let sName = subjectRaw;
+                                 
+                                 if (courses.length > 0) {
+                                      // If purely one-to-one mapping was intended by slash split:
+                                      // rooms[0] -> courses[0]
+                                      // But now rooms[0] might split into [roomA, roomB]. 
+                                      // Should both get courses[0]? Yes, meaningful default.
+                                      
+                                      if (courses.length === 1) {
+                                          cCode = courses[0];
+                                      } else {
+                                          // Try to map by index of the slash-split segment
+                                          cCode = courses[index] || courses[0];
+                                      }
+                                 }
+                                 
+                                 if (subjects.length > 0) {
+                                      if (subjects.length === 1) {
+                                          sName = subjects[0];
+                                      } else {
+                                          sName = subjects[index] || subjects[0];
+                                      }
+                                 }
 
-                            if (!roomData[room]) {
-                                roomData[room] = {};
-                            }
-                            if (!roomData[room][day]) {
-                                roomData[room][day] = {};
-                            }
+                                if (!roomData[room]) {
+                                    roomData[room] = {};
+                                }
+                                if (!roomData[room][day]) {
+                                    roomData[room][day] = {};
+                                }
 
-                            // Try to match course/subject by index, fallback to first or empty
-                            const courseCode = courses[index] || courses[0] || courseRaw;
-                            const subjectName = subjects[index] || subjects[0] || subjectRaw;
-
-                             // Store relevant info: Batch, CourseCode, SubjectName, Type
-                             // If multiple entries end up in same room/time (due to normalization), 
-                             // we might overwrite. Ideally we should support arrays.
-                             // For now, let's just overwrite as per original logic, 
-                             // but maybe we should append if it's a different batch?
-                             // Sticking to overwrite for simplicity unless requested.
-                            roomData[room][day][time] = [
-                                batch,      // 0: Batch
-                                courseCode,   // 1: CourseCode
-                                subjectName,   // 2: SubjectName
-                                type    // 3: Type
-                            ];
+                                roomData[room][day][time] = [
+                                    batch,      // 0: Batch
+                                    cCode,   // 1: CourseCode
+                                    sName,   // 2: SubjectName
+                                    type    // 3: Type
+                                ];
+                             });
                         });
                     }
                 }

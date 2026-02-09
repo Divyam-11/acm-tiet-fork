@@ -102,8 +102,18 @@ function Home() {
             <button className="submit-button" type="submit">Submit</button>
             
           </form>
-          <div className="room-check-link" style={{ textAlign: 'center', marginTop: '15px' }}>
-            <Link to="/rooms" className="submit-button" style={{ display: 'inline-block', textDecoration: 'none', fontSize: '14px', backgroundColor: '#333' }}>
+          <div className="room-check-link" style={{ textAlign: 'center', marginTop: '20px' }}>
+            <Link to="/rooms" style={{ 
+                display: 'inline-block', 
+                textDecoration: 'none', 
+                fontSize: '16px', 
+                backgroundColor: 'white', 
+                color: '#000401',
+                padding: '10px 20px',
+                borderRadius: '10px',
+                fontWeight: '500',
+                boxShadow: '0 2px 4px rgba(0,0,0,0.1)'
+            }}>
               Check Room Availability
             </Link>
           </div>
